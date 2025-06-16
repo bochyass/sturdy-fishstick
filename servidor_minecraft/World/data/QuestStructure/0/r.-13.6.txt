@@ -1,0 +1,6 @@
+ShrineSmallWater,-7035,-7027,3207,3215
+ShrineSmallWater,-6878,-6870,3338,3346
+RLCraft_SmallUndergroundSkeleton,-7160,-7152,3318,3326
+ShrineSmallAir,-7051,-7043,3118,3126
+StonePlantMound,-7162,-7157,3374,3379
+StonePlantMound,-7165,-7160,3293,3298

@@ -1,0 +1,2 @@
+RLCraft_SmallUndergroundSkeleton,-7046,-7038,-7555,-7547
+ShrineSmallFire,-7036,-7026,-7379,-7369

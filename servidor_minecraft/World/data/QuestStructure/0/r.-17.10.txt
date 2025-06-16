@@ -1,0 +1,4 @@
+StonePlantBoulder,-8857,-8847,5569,5579
+RLCraft_BasicSkeleton,-8750,-8750,5523,5523
+RLCraft_UndergroundRuin1,-8756,-8747,5517,5526
+ShrineSmallFire,-8804,-8794,5558,5568

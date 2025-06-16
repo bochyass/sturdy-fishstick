@@ -1,0 +1,3 @@
+RLCraft_PlainsCampRuined,200,245,-8697,-8658
+P_Village2Story,248,261,-8682,-8676
+VillageGuardTower,289,301,-8659,-8647

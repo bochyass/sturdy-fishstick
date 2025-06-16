@@ -1,0 +1,6 @@
+StoneLeafMound,-3029,-3020,-8336,-8329
+StonePlantMound,-3035,-3030,-8382,-8377
+StonePlantBoulder,-3060,-3050,-8477,-8467
+UnnaturalCrater,-3062,-3022,-8465,-8425
+RLCraft_DecentWitch,-3059,-3059,-8197,-8197
+RLCraft_UndergroundRuin3,-3061,-3053,-8200,-8192

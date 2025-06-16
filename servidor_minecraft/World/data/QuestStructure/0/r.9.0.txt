@@ -1,0 +1,4 @@
+ShrineSmallFire,5008,5018,314,324
+RLCraft_BasicWitch,4746,4746,505,505
+RLCraft_UndergroundRuin1,4740,4749,499,508
+ShrineSmallWater,4755,4763,228,236

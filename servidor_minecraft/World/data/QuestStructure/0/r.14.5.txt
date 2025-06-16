@@ -1,0 +1,4 @@
+RLCraft_SmallUndergroundSkeleton,7600,7608,2572,2580
+BlazeSpawnerCrystal,7220,7226,2631,2637
+StoneLeafMound,7232,7241,2842,2849
+P_LargeShip,7411,7471,2751,2769

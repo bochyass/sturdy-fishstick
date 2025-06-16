@@ -1,0 +1,4 @@
+IceThorn3,9401,9415,4294,4308
+ShrineSmallAir,9413,9421,4255,4263
+ShrineSmallFire,9470,9480,4310,4320
+UndergroundCultChamber,9340,9382,4379,4411

@@ -1,0 +1,2 @@
+VillageSavannaKitchen,8825,8837,-6152,-6142
+P_Village2Story,8802,8815,-6150,-6144

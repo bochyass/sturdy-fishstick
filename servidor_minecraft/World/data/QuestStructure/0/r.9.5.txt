@@ -1,0 +1,6 @@
+ShrineSmallFire,4754,4764,2626,2636
+RLCraft_DecentSpider,4689,4689,2833,2833
+RLCraft_UndergroundRuin2,4684,4694,2831,2838
+RLCraft_PlainsCamp,4613,4659,2773,2812
+ShrineSmallWater,4717,4725,2871,2879
+ShrineSmallWater,4852,4860,2910,2918

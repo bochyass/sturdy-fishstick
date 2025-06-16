@@ -1,0 +1,10 @@
+SmallWoodenCottage,2412,2420,-4627,-4616
+SmallFortRuins,2544,2574,-4685,-4653
+RLCraft_DecentCaveSpider,2497,2497,-4711,-4711
+RLCraft_UndergroundRuin2,2492,2499,-4716,-4706
+RLCraft_PlainsCamp,2289,2328,-4658,-4612
+SmallWoodenCottage,2226,2234,-4683,-4672
+RLCraft_SmallUndergroundSkeleton,2052,2060,-4623,-4615
+RLCraft_SmallUndergroundSkeleton,2336,2344,-4783,-4775
+SmallFortRuinsJapanese,2374,2420,-4746,-4700
+RLCraft_SmallUndergroundSkeleton,2439,2447,-4794,-4786

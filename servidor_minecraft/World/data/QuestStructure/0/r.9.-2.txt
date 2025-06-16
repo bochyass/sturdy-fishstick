@@ -1,0 +1,4 @@
+ClayWaterMound1,4849,4860,-1520,-1510
+StonePlantMound3,4681,4690,-1495,-1484
+StonePlantMound2,4658,4671,-1493,-1481
+P_SeasidePort,4906,4931,-1351,-1323

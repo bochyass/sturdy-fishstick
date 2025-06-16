@@ -1,0 +1,8 @@
+MysticalTree1,-8819,-8808,-3189,-3176
+StonePlantMound3,-8863,-8854,-3161,-3150
+StonePlantBoulder,-8909,-8899,-3191,-3181
+MeteorSite,-8935,-8920,-3119,-3089
+StonePlantBoulder,-8937,-8927,-3229,-3219
+StoneBoulder,-8825,-8816,-3310,-3301
+RLCraft_Vineyard,-8727,-8707,-3470,-3442
+StonePlantMound4,-8785,-8778,-3440,-3433

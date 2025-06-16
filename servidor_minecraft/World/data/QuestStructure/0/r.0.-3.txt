@@ -1,0 +1,5 @@
+StonePlantMound,92,97,-1561,-1556
+DesertWatchtower,-456,-446,-2041,-2031
+StonePlantMound,-205,-200,-1988,-1983
+RLCraft_SmallUndergroundSkeleton,-355,-347,-1950,-1942
+StonePlantBoulder,-153,-143,-1952,-1942

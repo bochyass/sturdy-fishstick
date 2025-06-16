@@ -1,0 +1,7 @@
+StoneBoulder,-2584,-2575,7914,7923
+RLCraft_DecentZombie,-2587,-2587,7980,7980
+RLCraft_UndergroundRuin3,-2590,-2582,7978,7986
+StonePlantMound,-2585,-2580,7993,7998
+RLCraft_SmallUndergroundSkeleton,-2567,-2559,8000,8008
+P_Village2Story,-2568,-2555,7878,7884
+VillageGuardTower,-2567,-2555,7847,7859

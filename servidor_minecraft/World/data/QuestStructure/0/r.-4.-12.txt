@@ -1,0 +1,9 @@
+StoneBoulder,-2313,-2304,-6478,-6469
+UndergroundTreeoid,-2357,-2331,-6439,-6416
+MeteorSite,-2308,-2293,-6563,-6533
+StonePlantMound3,-2312,-2301,-6402,-6393
+P_PreysPerch,-2460,-2414,-6649,-6603
+RLCraft_DecentZombie,-2508,-2508,-6479,-6479
+RLCraft_UndergroundRuin3,-2513,-2505,-6485,-6477
+RLCraft_DecentCaveSpider,-2538,-2538,-6651,-6651
+RLCraft_UndergroundRuin2,-2543,-2533,-6653,-6646

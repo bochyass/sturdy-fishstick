@@ -1,0 +1,7 @@
+ShrineSmallAir,-5128,-5120,-7954,-7946
+StonePlantMound,-5144,-5139,-7989,-7984
+StonePlantMound3,-5204,-5193,-7981,-7972
+MysticalTree1,-5130,-5119,-7847,-7834
+StonePlantBoulder,-5172,-5162,-7830,-7820
+StoneBoulder,-5137,-5128,-7769,-7760
+StoneLeafMound,-5157,-5150,-7767,-7758

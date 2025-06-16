@@ -1,0 +1,10 @@
+StoneMazePath,-7292,-7290,8188,8190
+StoneMazePath,-7289,-7287,8188,8190
+StoneMazePath,-7286,-7284,8188,8190
+StoneMazePath,-7295,-7293,8188,8190
+StoneMazePath,-7283,-7281,8188,8190
+StoneMazePath,-7280,-7278,8188,8190
+StoneMazeEndChest,-7277,-7275,8188,8190
+StoneMazeEndChest,-7298,-7296,8188,8190
+StoneMazePath,-7301,-7299,8188,8190
+StoneMazeSpiderRoom,-7271,-7266,8188,8193

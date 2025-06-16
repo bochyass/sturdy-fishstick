@@ -1,0 +1,2 @@
+RLCraft_BasicZombie,-173,-173,6087,6087
+RLCraft_UndergroundRuin1,-179,-170,6081,6090

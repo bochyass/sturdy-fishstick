@@ -1,0 +1,7 @@
+ShrineSmallFire,-3996,-3986,-6953,-6943
+StonePlantMound3,-3953,-3942,-6934,-6925
+StonePlantBoulder,-3934,-3924,-6993,-6983
+RLCraft_DecentZombie,-3994,-3994,-6861,-6861
+RLCraft_UndergroundRuin2,-3999,-3989,-6863,-6856
+StonePlantMound4,-4000,-3993,-7044,-7037
+StonePlantMound1,-3873,-3867,-6891,-6885

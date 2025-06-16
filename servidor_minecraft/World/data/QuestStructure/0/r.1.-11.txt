@@ -1,0 +1,4 @@
+RLCraft_BasicSpider,653,653,-5805,-5805
+RLCraft_UndergroundRuin1,650,659,-5808,-5799
+RLCraft_DecentSkeleton,630,630,-5912,-5912
+RLCraft_UndergroundRuin2,625,635,-5917,-5910

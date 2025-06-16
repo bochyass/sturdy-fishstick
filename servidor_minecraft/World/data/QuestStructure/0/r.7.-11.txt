@@ -1,0 +1,4 @@
+StoneBoulder,4034,4043,-6086,-6077
+StonePlantMound,4063,4068,-6055,-6050
+MeteorSite,3899,3929,-6095,-6080
+RLCraft_SmallUndergroundSkeleton,3841,3849,-5979,-5971

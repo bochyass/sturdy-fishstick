@@ -1,0 +1,12 @@
+StonePlantMound1,4084,4090,-6166,-6160
+StonePlantBoulder,4084,4094,-6202,-6192
+StoneBoulder,3989,3998,-6153,-6144
+StonePlantMound,3962,3967,-6193,-6188
+SmallWoodenCottage1,3895,3901,-6182,-6171
+RLCraft_SmallUndergroundSkeleton,3880,3888,-6247,-6239
+StonePlantMound4,3873,3880,-6278,-6271
+BlazeSpawnerCrystal,3874,3880,-6273,-6267
+RLCraft_SmallUndergroundSkeleton,4062,4070,-6425,-6417
+StonePlantMound2,3844,3856,-6172,-6159
+StonePlantBoulder,4078,4088,-6575,-6565
+StonePlantMound4,4051,4058,-6486,-6479

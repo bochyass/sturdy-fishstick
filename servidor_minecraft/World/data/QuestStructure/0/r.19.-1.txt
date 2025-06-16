@@ -1,0 +1,7 @@
+RLCraft_BasicZombie,9848,9848,-858,-858
+RLCraft_UndergroundRuin1,9845,9854,-861,-852
+SmallAbandonedMine,10038,10053,-680,-655
+StonePlantBoulder,10012,10022,-641,-631
+StonePlantMound1,10053,10059,-620,-614
+RLCraft_DecentWitch,9994,9994,-630,-630
+RLCraft_UndergroundRuin3,9988,9996,-633,-625

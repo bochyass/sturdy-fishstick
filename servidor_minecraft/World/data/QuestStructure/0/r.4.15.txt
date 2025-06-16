@@ -1,0 +1,7 @@
+StonePlantMound1,2096,2102,8068,8074
+StonePlantBoulder,2051,2061,8147,8157
+StonePlantMound,2101,2106,8126,8131
+ShrineSmallFire,2124,2134,8125,8135
+Tree_Oak_TheMushroomOak_v3,2135,2194,8159,8209
+RLCraft_BasicSkeleton,2257,2257,8159,8159
+RLCraft_UndergroundRuin1,2254,2263,8156,8165

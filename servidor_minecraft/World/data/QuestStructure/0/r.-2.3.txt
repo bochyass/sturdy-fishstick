@@ -1,0 +1,15 @@
+StonePlantMound1,-1478,-1472,1916,1922
+StonePlantBoulder,-1463,-1453,1907,1917
+RLCraft_BasicZombie,-1526,-1526,1973,1973
+RLCraft_UndergroundRuin1,-1532,-1523,1970,1979
+RLCraft_BasicSpider,-1434,-1434,1824,1824
+RLCraft_UndergroundRuin1,-1440,-1431,1818,1827
+StonePlantMound3,-1462,-1453,1790,1801
+StoneLeafMound,-1522,-1513,1776,1783
+StonePlantMound4,-1449,-1442,1963,1970
+StonePlantMound2,-1417,-1404,1942,1954
+StonePlantMound,-1398,-1393,1939,1944
+StonePlantMound2,-1535,-1522,1738,1750
+P_Crater,-1570,-1487,1712,1788
+StonePlantMound4,-1524,-1517,2043,2050
+StonePlantMound,-1386,-1381,2019,2024

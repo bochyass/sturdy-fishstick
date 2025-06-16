@@ -1,0 +1,8 @@
+RLCraft_DecentWitch,7504,7504,442,442
+RLCraft_UndergroundRuin2,7499,7509,437,444
+RLCraft_DecentCaveSpider,7672,7672,501,501
+RLCraft_UndergroundRuin2,7667,7677,499,506
+StoneLeafMound,7615,7622,327,336
+StonePlantMound1,7383,7389,357,363
+StonePlantMound,7384,7389,413,418
+RLCraft_SmallUndergroundSkeleton,7362,7370,471,479

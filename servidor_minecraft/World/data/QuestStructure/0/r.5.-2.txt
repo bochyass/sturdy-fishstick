@@ -1,0 +1,12 @@
+RLCraft_DecentSkeleton,2649,2649,-1024,-1024
+RLCraft_BasicSpider,2782,2782,-1162,-1162
+RLCraft_UndergroundRuin1,2776,2785,-1168,-1159
+StonePlantMound1,2694,2700,-1161,-1155
+ThreeTowers,2676,2707,-1190,-1158
+VillageInn,2649,2669,-1159,-1132
+StonePlantMound,2923,2928,-1050,-1045
+ShrineSmallFire,2894,2904,-1133,-1123
+P_VillageBlacksmith,2631,2645,-1154,-1121
+RLCraft_Vineyard,2646,2666,-1191,-1163
+P_VillageInn,2631,2640,-1172,-1161
+P_VillageHouse,2611,2622,-1173,-1164

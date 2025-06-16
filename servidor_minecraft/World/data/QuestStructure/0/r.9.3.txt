@@ -1,0 +1,3 @@
+ShrineSmallAir,4615,4623,1537,1545
+RLCraft_DecentSkeleton,4722,4722,1680,1680
+RLCraft_UndergroundRuin2,4717,4724,1675,1685

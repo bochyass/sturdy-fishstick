@@ -1,0 +1,11 @@
+P_VillageFarmhouse,9734,9746,2905,2917
+VillageWoodMill,9734,9750,2876,2889
+StonePlantMound,9787,9792,2981,2986
+RLCraft_Vineyard,9764,9784,2871,2899
+StonePlantMound4,9752,9759,2863,2870
+SeasonsGreenhouse,9764,9776,2851,2861
+P_Village2Story,9742,9755,2848,2854
+VillageTriplets,9764,9778,2834,2848
+VillageTriplets,9764,9778,2834,2848
+StoneBoulder,9851,9860,2973,2982
+UndergroundCultChamber,9735,9777,2809,2841

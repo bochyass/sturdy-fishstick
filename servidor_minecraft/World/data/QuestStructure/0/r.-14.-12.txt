@@ -1,0 +1,5 @@
+RLCraft_SmallUndergroundSkeleton,-7335,-7327,-6580,-6572
+RLCraft_DecentWitch,-7385,-7385,-6648,-6648
+RLCraft_UndergroundRuin2,-7390,-7380,-6653,-6646
+StonePlantMound2,-7408,-7396,-6541,-6528
+StonePlantMound,-7334,-7329,-6516,-6511

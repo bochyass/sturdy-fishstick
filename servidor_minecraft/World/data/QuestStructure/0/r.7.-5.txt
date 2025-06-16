@@ -1,0 +1,11 @@
+ShrineSmallFire,3582,3592,-2953,-2943
+ClayWaterMound,3595,3602,-2719,-2711
+StonePlantMound2,3618,3631,-3042,-3030
+StoneBoulder,3647,3656,-3000,-2991
+StoneLeafMound,3635,3644,-3056,-3049
+P_SpookyHouse,3640,3680,-2872,-2846
+RLCraft_SmallUndergroundSkeleton,3679,3687,-3066,-3058
+StonePlantMound3,3604,3613,-3077,-3066
+DinosaurSkull,3695,3706,-3044,-3025
+ShrineSmallFire,3698,3708,-2921,-2911
+UndergroundTreeoid,3706,3732,-2832,-2809

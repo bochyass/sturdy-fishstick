@@ -1,0 +1,3 @@
+StonePlantBoulder,-7864,-7854,-3677,-3667
+StonePlantMound1,-7757,-7751,-3654,-3648
+StonePlantMound3,-7753,-7742,-3670,-3661

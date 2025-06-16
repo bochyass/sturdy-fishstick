@@ -1,0 +1,4 @@
+StonePlantMound1,-9144,-9138,2732,2738
+DinosaurSkull,-9103,-9092,2688,2707
+ClayWaterMound,-9093,-9086,2665,2673
+StonePlantMound2,-9131,-9118,2763,2775

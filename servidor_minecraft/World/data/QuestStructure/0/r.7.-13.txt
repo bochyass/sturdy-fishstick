@@ -1,0 +1,15 @@
+RLCraft_SmallUndergroundSkeleton,3716,3724,-6809,-6801
+StonePlantMound,3751,3756,-6900,-6895
+MeteorSite,3808,3823,-6868,-6838
+RLCraft_DecentZombie,3681,3681,-6842,-6842
+RLCraft_UndergroundRuin3,3679,3687,-6847,-6839
+StonePlantMound1,3637,3643,-6791,-6785
+RLCraft_SmallUndergroundSkeleton,3883,3891,-6827,-6819
+StonePlantMound1,3626,3632,-6810,-6804
+DinosaurSkull,3887,3898,-6899,-6880
+P_WitchDungeon,3856,3890,-6919,-6902
+StonePlantMound,3899,3904,-6846,-6841
+StonePlantMound,3605,3610,-6766,-6761
+StonePlantBoulder,3911,3921,-6921,-6911
+StonePlantBoulder,3763,3773,-7015,-7005
+StonePlantMound2,3682,3695,-7019,-7007

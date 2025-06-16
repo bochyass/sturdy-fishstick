@@ -1,0 +1,16 @@
+RLCraft_UndergroundFarm,-2654,-2612,-5341,-5298
+StonePlantBoulder,-2591,-2581,-5374,-5364
+StonePlantMound3,-2674,-2665,-5189,-5178
+WoodWallRemains,-2617,-2589,-5389,-5381
+StoneLeafMound,-2682,-2675,-5154,-5145
+StonePlantMound4,-2662,-2655,-5367,-5360
+StonePlantMound1,-2692,-2686,-5225,-5219
+StonePlantMound,-2668,-2663,-5389,-5384
+StonePlantBoulder,-2699,-2689,-5399,-5389
+MeteorSite,-2710,-2695,-5309,-5279
+RLCraft_BasicSkeleton,-2714,-2714,-5326,-5326
+RLCraft_UndergroundRuin1,-2717,-2708,-5332,-5323
+RLCraft_Vineyard,-2730,-2702,-5397,-5377
+VillageLargeLibrary,-2718,-2699,-5421,-5401
+StoneLeafMound,-2749,-2740,-5430,-5423
+VillageHouseRich,-2746,-2727,-5430,-5415

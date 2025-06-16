@@ -1,0 +1,11 @@
+StonePlantMound2,-1569,-1556,1876,1888
+StonePlantMound,-1547,-1542,1839,1844
+StonePlantMound2,-1554,-1541,1925,1937
+ShrineSmallAir,-1593,-1585,2018,2026
+StoneLeafMound,-1682,-1673,1934,1941
+StonePlantBoulder,-1711,-1701,1820,1830
+StonePlantMound2,-1706,-1694,1800,1813
+MeteorSite,-1716,-1686,1809,1824
+StonePlantMound3,-1695,-1686,1986,1997
+StonePlantMound1,-1645,-1639,1756,1762
+WoodThorn,-1722,-1711,1796,1807

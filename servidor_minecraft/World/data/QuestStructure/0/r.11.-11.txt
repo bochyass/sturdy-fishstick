@@ -1,0 +1,5 @@
+MeteorSite,5776,5791,-5694,-5664
+StoneLeafMound,5708,5715,-5726,-5717
+ShrineSmallAir,5793,5801,-5693,-5685
+RLCraft_DecentWitch,5782,5782,-5717,-5717
+RLCraft_UndergroundRuin3,5779,5787,-5723,-5715

@@ -1,0 +1,6 @@
+ShrineSmallWater,10055,10063,-5664,-5656
+StonePlantMound1,10080,10086,-5641,-5635
+RLCraft_BasicWitch,10153,10153,-5743,-5743
+RLCraft_UndergroundRuin1,10150,10159,-5746,-5737
+ShrineSmallWater,9934,9942,-5811,-5803
+P_CultIsland,9881,10051,-5876,-5666

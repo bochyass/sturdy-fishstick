@@ -1,0 +1,6 @@
+VillageSavannaKitchen,8877,8889,-6144,-6134
+ThreeTowers,8858,8890,-6122,-6091
+VillageTriplets,8854,8868,-6147,-6133
+VillageWoodMill,8823,8836,-6122,-6106
+RLCraft_DecentSkeleton,8991,8991,-6100,-6100
+RLCraft_UndergroundRuin2,8986,8993,-6105,-6095

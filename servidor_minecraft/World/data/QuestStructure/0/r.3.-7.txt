@@ -1,0 +1,2 @@
+DinosaurSkeleton,1786,1832,-4091,-4082
+BigClockworkSite,1577,1622,-4081,-4046

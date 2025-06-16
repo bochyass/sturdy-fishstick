@@ -1,0 +1,6 @@
+StonePlantMound2,-1608,-1596,-3125,-3112
+RLCraft_DecentSkeleton,-1667,-1667,-3106,-3106
+RLCraft_UndergroundRuin3,-1672,-1664,-3108,-3100
+BlazeSpawnerCrystal,-1650,-1644,-3187,-3181
+RLCraft_BasicCaveSpider,-1620,-1620,-3231,-3231
+RLCraft_UndergroundRuin1,-1626,-1617,-3234,-3225

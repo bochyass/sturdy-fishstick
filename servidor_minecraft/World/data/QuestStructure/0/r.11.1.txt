@@ -1,0 +1,5 @@
+RLCraft_DecentWitch,6098,6098,578,578
+RLCraft_UndergroundRuin2,6093,6103,573,580
+StonePlantMound3,6127,6138,630,639
+DinosaurSkull,6096,6107,642,661
+StonePlantMound1,6139,6145,692,698

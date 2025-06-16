@@ -1,0 +1,2 @@
+ShrineSmallWater,4588,4596,2884,2892
+StonePlantBoulder,4483,4493,2861,2871

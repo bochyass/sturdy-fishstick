@@ -1,0 +1,8 @@
+RLCraft_BasicZombie,-370,-370,-2177,-2177
+RLCraft_UndergroundRuin1,-373,-364,-2183,-2174
+DinosaurSkull,-346,-327,-2143,-2132
+P_MayanTemple2,-309,-210,-2175,-2107
+UndergroundCultChamber,-330,-298,-2120,-2078
+StoneLeafMound,-414,-407,-2198,-2189
+RLCraft_DecentSpider,-289,-289,-2268,-2268
+RLCraft_UndergroundRuin3,-292,-284,-2270,-2262

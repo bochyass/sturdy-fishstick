@@ -1,0 +1,2 @@
+P_WizardTower,2002,2032,8065,8095
+StonePlantMound,2004,2009,7979,7984

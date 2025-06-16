@@ -1,0 +1,7 @@
+StoneLeafMound,-6307,-6300,-6144,-6135
+StonePlantMound2,-6249,-6236,-6126,-6114
+PeacefulCrypt,-6476,-6452,-6086,-6070
+RLCraft_DecentZombie,-6467,-6467,-6077,-6077
+RLCraft_UndergroundRuin3,-6472,-6464,-6083,-6075
+RLCraft_BasicCaveSpider,-6392,-6392,-6072,-6072
+RLCraft_UndergroundRuin1,-6398,-6389,-6075,-6066

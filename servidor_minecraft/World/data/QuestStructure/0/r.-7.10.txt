@@ -1,0 +1,9 @@
+P_VillageFarmhouse,-4095,-4083,5350,5362
+VillageGuardTower,-4065,-4053,5288,5300
+VillageWoodMill,-4058,-4042,5362,5375
+P_VillageInn,-4052,-4041,5350,5359
+VillageMarketplace,-4037,-4023,5287,5301
+SeasonsGreenhouse,-4028,-4016,5316,5326
+RLCraft_Vineyard,-4028,-4008,5351,5379
+P_VillageHouse,-4015,-4004,5315,5324
+ThreeTowers,-3993,-3962,5293,5325

@@ -1,0 +1,2 @@
+SmallAbandonedMine,3053,3078,7766,7781
+SmallWoodenCottage2,2962,2970,7798,7806

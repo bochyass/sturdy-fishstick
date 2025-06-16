@@ -1,0 +1,10 @@
+RLCraft_DecentZombie,-1821,-1821,5386,5386
+RLCraft_UndergroundRuin3,-1827,-1819,5381,5389
+IceThorn3,-1775,-1761,5364,5378
+RLCraft_SmallUndergroundSkeleton,-1826,-1818,5488,5496
+SmallAbandonedMine,-1879,-1864,5463,5488
+RLCraft_DecentSkeleton,-1719,-1719,5453,5453
+RLCraft_UndergroundRuin3,-1725,-1717,5450,5458
+RLCraft_DecentWitch,-1946,-1946,5400,5400
+RLCraft_UndergroundRuin3,-1949,-1941,5394,5402
+RLCraft_SmallUndergroundSkeleton,-1767,-1759,5224,5232

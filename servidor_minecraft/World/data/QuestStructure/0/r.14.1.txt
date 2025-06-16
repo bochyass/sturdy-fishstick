@@ -1,0 +1,6 @@
+StoneLeafMound,7397,7406,525,532
+RLCraft_SmallUndergroundSkeleton,7394,7402,631,639
+RLCraft_BasicCaveSpider,7374,7374,650,650
+RLCraft_UndergroundRuin1,7371,7380,647,656
+StoneLeafMound,7351,7360,664,671
+StonePlantMound4,7343,7350,536,543

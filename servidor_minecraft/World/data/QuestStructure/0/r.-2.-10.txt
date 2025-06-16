@@ -1,0 +1,6 @@
+ShrineSmallFire,-1240,-1230,-5138,-5128
+RLCraft_BasicSkeleton,-1187,-1187,-5166,-5166
+RLCraft_UndergroundRuin1,-1190,-1181,-5169,-5160
+SmallAbandonedMine,-1267,-1252,-5213,-5188
+BrickHenge,-1250,-1234,-5239,-5223
+RLCraft_SmallUndergroundSkeleton,-1277,-1269,-5276,-5268

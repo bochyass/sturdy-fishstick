@@ -1,0 +1,4 @@
+StoneBoulder,7849,7858,1054,1063
+ClayWaterMound1,7997,8008,1077,1087
+RLCraft_BasicSpider,7979,7979,1100,1100
+RLCraft_UndergroundRuin1,7976,7985,1094,1103

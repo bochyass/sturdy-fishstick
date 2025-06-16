@@ -1,0 +1,4 @@
+ShrineSmallFire,1513,1523,-4358,-4348
+ShrineSmallFire,1519,1529,-4588,-4578
+RLCraft_DecentCaveSpider,1407,1407,-4581,-4581
+RLCraft_UndergroundRuin3,1405,1413,-4584,-4576

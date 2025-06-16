@@ -1,0 +1,4 @@
+P_SmallShip,-6505,-6499,5737,5757
+RLCraft_DecentSkeleton,-6522,-6522,5770,5770
+RLCraft_UndergroundRuin2,-6524,-6517,5765,5775
+StonePlantBoulder,-6268,-6258,5672,5682

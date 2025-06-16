@@ -1,0 +1,7 @@
+RLCraft_UndergroundFarm,-2592,-2549,-6400,-6358
+ShrineSmallAir,-3044,-3036,-6597,-6589
+ShrineSmallFire,-2939,-2929,-6326,-6316
+P_CultIsland,-3084,-2874,-6482,-6312
+RLCraft_AgentStarbuck_WaterBase,-2880,-2863,-6256,-6244
+RLCraft_DecentWitch,-2679,-2679,-6206,-6206
+RLCraft_UndergroundRuin2,-2684,-2674,-6211,-6204

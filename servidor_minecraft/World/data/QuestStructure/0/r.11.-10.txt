@@ -1,0 +1,5 @@
+RLCraft_BasicSkeleton,5744,5744,-5552,-5552
+RLCraft_UndergroundRuin1,5741,5750,-5555,-5546
+StonePlantMound3,5639,5648,-5624,-5613
+RLCraft_BasicWitch,5682,5682,-5453,-5453
+RLCraft_UndergroundRuin1,5679,5688,-5459,-5450

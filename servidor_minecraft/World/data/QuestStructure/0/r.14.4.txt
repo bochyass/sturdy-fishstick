@@ -1,0 +1,9 @@
+DinosaurSkull,7567,7578,2375,2394
+StonePlantMound,7514,7519,2349,2354
+StonePlantMound4,7529,7536,2324,2331
+RLCraft_DecentSkeleton,7465,7465,2349,2349
+RLCraft_UndergroundRuin3,7462,7470,2347,2355
+SmallWoodenCottage1,7646,7652,2468,2479
+BrickHenge,7369,7385,2377,2393
+StonePlantMound,7585,7590,2242,2247
+DinosaurSkeleton,7380,7389,2055,2101

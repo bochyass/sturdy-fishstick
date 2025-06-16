@@ -1,0 +1,10 @@
+StonePlantMound4,2700,2707,-992,-985
+ClayWaterMound1,2813,2824,-1017,-1007
+StonePlantMound3,2685,2694,-988,-977
+RLCraft_UndergroundRuin3,2647,2655,-1027,-1019
+StonePlantMound1,2646,2652,-1019,-1013
+P_RuinedHouse,2633,2658,-963,-946
+P_SwampHouse,2920,2962,-957,-927
+RLCraft_UndergroundFarm,2910,2952,-977,-934
+StonePlantMound,2901,2906,-913,-908
+StoneBoulder,2886,2895,-844,-835

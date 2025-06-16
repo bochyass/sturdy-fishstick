@@ -1,0 +1,15 @@
+UndergroundCrypt,-154,-140,6179,6207
+StonePlantMound2,-118,-105,6157,6169
+RLCraft_xKOSMOS42,-263,-237,6205,6234
+VillageGuardTower,-202,-190,6320,6332
+CorruptedEnderTree,-118,-105,6330,6341
+VillageWoodMill,-196,-183,6358,6374
+VillageLargeLibrary,-241,-221,6358,6377
+StonePlantMound1,-244,-238,6346,6352
+StonePlantMound3,-159,-148,6379,6388
+VillageMarketplace,-172,-158,6369,6383
+PirateChest,-32,-28,6300,6304
+VillageTriplets,-194,-180,6386,6400
+VillageTriplets,-194,-180,6386,6400
+StoneBoulder,-57,-48,6339,6348
+SeasonsGreenhouse,-228,-218,6388,6400

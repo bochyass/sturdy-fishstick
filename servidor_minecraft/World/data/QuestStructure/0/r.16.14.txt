@@ -1,0 +1,5 @@
+RLCraft_DecentZombie,8436,8436,7172,7172
+RLCraft_UndergroundRuin3,8430,8438,7169,7177
+DinosaurSkull,8500,8519,7230,7241
+RLCraft_SmallUndergroundSkeleton,8682,8690,7312,7320
+DinosaurSkull,8645,8664,7341,7352

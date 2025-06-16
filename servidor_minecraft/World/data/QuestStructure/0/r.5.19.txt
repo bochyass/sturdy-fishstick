@@ -1,0 +1,2 @@
+DesertWatchtower,3060,3070,9950,9960
+DinosaurSkeleton,3015,3024,9901,9947

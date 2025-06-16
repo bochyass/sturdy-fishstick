@@ -1,0 +1,11 @@
+VillageMarketplace,-2538,-2524,7891,7905
+RLCraft_BasicZombie,-2555,-2555,7883,7883
+RLCraft_UndergroundRuin1,-2558,-2549,7877,7886
+P_VillageFarmhouse,-2533,-2521,7878,7890
+StoneBoulder,-2501,-2492,7939,7948
+StonePlantMound,-2548,-2543,8022,8027
+SeasonsGreenhouse,-2518,-2508,7878,7890
+StonePlantMound,-2526,-2521,7866,7871
+VillageTriplets,-2508,-2494,7848,7862
+StonePlantMound,-2551,-2546,7813,7818
+StonePlantMound3,-2507,-2496,8058,8067
