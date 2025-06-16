@@ -3877,3 +3877,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [04:08:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Survival Mode]
 [04:11:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bochynqui was shot by Skeleton
 [04:11:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Teleported bochynqui to -5720.5, 75.5, -2353.5]
+[04:12:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Creative Mode]
+[04:13:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Survival Mode]
+[04:17:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bochynqui withered away
+[04:17:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Teleported bochynqui to -5720.5, 104.5, -2352.5]
+[04:17:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bochynqui fell from a high place
+[04:18:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Teleported bochynqui to -5719.5, 63.5, -2351.5]
+[04:18:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Creative Mode]
+[04:18:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Survival Mode]
+[04:18:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Creative Mode]
+[04:18:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Survival Mode]
+[04:20:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bochynqui was blown up by Battletower Golem
+[04:20:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Creative Mode]
+[04:20:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Teleported bochynqui to -5719.5, 125.5, -2351.5]
+[04:21:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: bochynqui moved too quickly! 1.0173682466147511,-10.569599609183584,-0.09999998658895493
+[04:21:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Survival Mode]
