@@ -3728,3 +3728,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [01:23:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Survival Mode]
 [01:26:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Creative Mode]
 [01:26:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Survival Mode]
+[01:26:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Creative Mode]
+[01:27:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Survival Mode]
+[01:28:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Creative Mode]
+[01:28:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Survival Mode]
+[01:28:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Creative Mode]
+[01:33:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Survival Mode]
+[01:33:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Game rule keepinventory has been updated to true]
+[01:33:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Teleported bochynqui to -8719.5, 132.0, -3158.5]
+[01:34:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Creative Mode]
+[01:34:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Survival Mode]
+[01:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Creative Mode]
+[01:35:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Survival Mode]
+[01:36:09] [Server thread/INFO] [RB-Transformer]: Injecting into pw.prok.realbench.WorkbenchInventory (pw.prok.realbench.WorkbenchInventory)
+[01:36:09] [Server thread/INFO] [RB-Transformer]:  - <init>
+[01:36:09] [Server thread/INFO] [RB-Transformer]:  - Done
+[01:36:09] [Server thread/INFO] [RLTweakerASM]: Patch exists for pw.prok.realbench.WorkbenchInventory
+[01:36:09] [Server thread/INFO] [RLTweakerASM]: Writing class pw.prok.realbench.WorkbenchInventory with flags MAXS | FRAMES
+[01:36:09] [Server thread/INFO] [RLTweaker]: HookRealBench reflected successfully!
