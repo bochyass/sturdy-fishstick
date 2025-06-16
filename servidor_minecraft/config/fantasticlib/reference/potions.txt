@@ -158,6 +158,14 @@ bountifulbaubles:sinful
 charm:coffee
 charm:ender_sight
 firstaid:morphine
+xaerominimap:no_minimap
+xaerominimap:no_minimap_harmful
+xaerominimap:no_entity_radar
+xaerominimap:no_entity_radar_harmful
+xaerominimap:no_waypoints
+xaerominimap:no_waypoints_harmful
+xaerominimap:no_cave_maps
+xaerominimap:no_cave_maps_harmful
 xat:sparkling
 xat:glittering
 xat:glowing

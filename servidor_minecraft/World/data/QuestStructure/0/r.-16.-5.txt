@@ -1,1 +1,3 @@
 UndergroundTreeoid,-8453,-8427,-3003,-2980
+RLCraft_SmallUndergroundSkeleton,-8242,-8234,-2925,-2917
+StonePlantMound2,-8231,-8219,-2929,-2916
