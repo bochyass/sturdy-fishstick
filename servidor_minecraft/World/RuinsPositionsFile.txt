@@ -225,6 +225,7 @@
 -7427 128 -3611 -7423 136 -3607 SmallWell.tml
 -7412 67 -939 -7408 69 -935 EmeraldOreOutcrop.tml
 -7404 67 -1074 -7396 73 -1066 ShortTower.tml
+-7398 59 -3462 -7391 69 -3455 BridgePilings-sm2.tml
 -7396 62 -6571 -7388 68 -6563 ShortTower.tml
 -7387 69 -2423 -7375 78 -2412 StoneHouse_Ruined.tml
 -7385 65 -832 -7378 72 -825 Outcrop.tml
@@ -233,10 +234,12 @@
 -7371 63 8499 -7341 106 8529 SkyCastle.tml
 -7367 54 -6800 -7360 64 -6793 BridgePilings-sm2.tml
 -7366 69 -607 -7363 73 -605 SkeletonHeadStatue.tml
+-7365 154 -3389 -7363 158 -3386 SkeletonHeadStatue.tml
 -7365 68 -2497 -7355 74 -2489 VanillaVillageForge-r.tml
 -7358 62 -2589 -7349 68 -2583 PortalShrine.tml
 -7357 63 8501 -7323 73 8536 UnderwaterBase.tml
 -7352 64 -2326 -7347 75 -2317 VanillaVillageChurch-r.tml
+-7346 129 -3542 -7331 140 -3531 Barn-ruined.tml
 -7346 67 -7496 -7340 73 -7490 SnowHouse3.tml
 -7343 63 8513 -7313 106 8543 SkyCastle.tml
 -7341 63 8632 -7311 103 8663 CastleOcean.tml
@@ -255,6 +258,7 @@
 -7257 67 -1039 -7249 75 -1030 WoodHouse_Intact.tml
 -7244 71 -7529 -7239 83 -7524 FrozenBush.tml
 -7244 86 8480 -7239 94 8485 PillarBase.tml
+-7241 120 -3323 -7237 122 -3319 EmeraldOreOutcrop.tml
 -7241 71 -6626 -7230 82 -6617 ArrowTrapTomb.tml
 -7241 48 -6863 -7230 59 -6827 SunkenShip-v3.tml
 -7234 69 -2277 -7226 75 -2267 VanillaVillageForge-p.tml

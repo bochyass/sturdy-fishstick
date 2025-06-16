@@ -3727,3 +3727,30 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [12:53:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bochynqui was slain by Ventoraptor  Lvl 2
 [12:53:06] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
 [12:53:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Teleported bochynqui to -7737.5, 64.5, -3445.5]
+[12:57:03] [Server thread/INFO] [antiqueatlas]: Created new marker #7"gui.antiqueatlas.marker.tomb bochynqui"@(-7558, -3476)
+[12:57:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bochynqui was freezer burned!
+[12:57:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Teleported bochynqui to -7558.5, 51.5, -3477.5]
+[12:57:25] [Server thread/INFO] [antiqueatlas]: Created new marker #8"gui.antiqueatlas.marker.tomb bochynqui"@(-7558, -3476)
+[12:57:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bochynqui was freezer burned!
+[12:57:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Teleported bochynqui to -7558.5, 51.5, -3476.5]
+[12:57:36] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[12:57:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bochynqui was freezer burned!
+[12:57:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <bochynqui> gamemode 1
+[12:57:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Teleported bochynqui to -7557.5, 50.5, -3476.5]
+[12:58:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <bochynqui> gamemode 1
+[12:58:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bochynqui was slain by Spider
+[12:58:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Creative Mode]
+[12:58:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Teleported bochynqui to -7557.5, 49.5, -3476.5]
+[12:58:33] [Server thread/INFO] [Meson ASM]: Transforming ItemHandlerHelper
+[12:58:33] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [insertItem, insertItem, ] Descriptor (Lnet/minecraftforge/items/IItemHandler;Lnet/minecraft/item/ItemStack;Z)Lnet/minecraft/item/ItemStack; / (Lnet/minecraftforge/items/IItemHandler;Laip;Z)Laip;)
+[12:58:33] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[12:58:33] [Server thread/INFO] [Meson ASM]: Located target ALOAD 0
+[12:58:33] [Server thread/INFO] [Meson ASM]: Patch result: true
+[12:59:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Survival Mode]
+[13:00:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Survival Mode]
+[13:00:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Creative Mode]
+[13:00:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Survival Mode]
+[13:01:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Creative Mode]
+[13:02:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Survival Mode]
+[13:02:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: De-opped bochynqui]
+[13:02:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Opped bochynqui
