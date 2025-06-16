@@ -5,3 +5,5 @@ P_RuinedHouse,-6464,-6439,-2611,-2594
 RLCraft_BasicWitch,-6423,-6423,-2651,-2651
 RLCraft_UndergroundRuin1,-6429,-6420,-2657,-2648
 SmallFortRuins,-6305,-6275,-2782,-2750
+StonePlantMound4,-6254,-6247,-2805,-2798
+StonePlantMound1,-6290,-6284,-2867,-2861

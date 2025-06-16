@@ -1,0 +1,9 @@
+StonePlantMound,-6063,-6058,-2577,-2572
+RLCraft_DecentZombie,-5999,-5999,-2650,-2650
+RLCraft_UndergroundRuin2,-6004,-5994,-2655,-2648
+UndergroundTreeoid,-5977,-5954,-2842,-2816
+RLCraft_UndergroundFarm,-5934,-5892,-2843,-2800
+StonePlantMound3,-6012,-6003,-2572,-2561
+RLCraft_SmallUndergroundSkeleton,-5968,-5960,-2570,-2562
+ElvenPond,-5992,-5962,-2579,-2550
+StonePlantMound1,-5789,-5783,-2591,-2585

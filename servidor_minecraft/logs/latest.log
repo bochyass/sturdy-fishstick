@@ -3835,3 +3835,27 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [03:51:19] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
 [03:51:19] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
 [03:51:19] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
+[03:52:43] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ -6008 | -2648 ], underground: true
+[03:54:15] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ -5720 | -2360 ], underground: false
+[03:54:18] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX -357 and chunkZ -153...
+[03:54:18] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_swamp_builtin_custom_loot at {"x": -5638, "y": 0, "z": -2240}...
+[03:54:20] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_swamp_builtin_custom_loot at {"x": -5638, "y": 0, "z": -2240}.
+[03:54:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of bochynqui) moved too quickly! 8.198796832105472,1.0405827310933091E-9,6.398403693256114
+[03:54:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of bochynqui) moved too quickly! 8.514135290408376,1.0486900237083319E-9,6.644496235558108
+[03:54:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of bochynqui) moved too quickly! 8.829884494364705,1.053834353115235E-9,6.8900041756674
+[03:54:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of bochynqui) moved too quickly! 9.146762162605228,1.056328358117753E-9,7.133943449464823
+[03:54:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of bochynqui) moved too quickly! 9.465346571981172,1.0566338914941298E-9,7.375455854656138
+[03:54:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of bochynqui) moved too quickly! 9.78602981676795,1.0552696494414704E-9,7.613904978566552
+[03:54:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of bochynqui) moved too quickly! 10.109110586280622,1.0527685390115948E-9,7.848756651263102
+[03:54:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of bochynqui) moved too quickly! 10.434777111689982,1.0496208346921776E-9,8.079625157562077
+[03:54:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of bochynqui) moved too quickly! 10.763153825617337,1.0462386512699595E-9,8.306208539715499
+[03:54:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of bochynqui) moved too quickly! 11.09431080790091,1.0429630492581055E-9,8.528282263125675
+[03:58:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bochynqui was pummeled by Ioray  Lvl 2
+[03:58:35] [Thread-99/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 6c0900de-ef4b-3203-85ad-79c1a51cf5f6.
+[03:58:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Teleported bochynqui to -5683.5, 63.5, -2464.5]
+[03:58:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Creative Mode]
+[03:58:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Survival Mode]
+[03:59:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Creative Mode]
+[03:59:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Survival Mode]
+[04:01:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bochynqui was slain by Cave Spider
+[04:01:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Teleported bochynqui to -5724.5, 63.5, -2353.5]
