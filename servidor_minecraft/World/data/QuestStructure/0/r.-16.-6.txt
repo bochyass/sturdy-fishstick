@@ -32,3 +32,4 @@ UndergroundCultChamber,-8385,-8353,-3368,-3326
 StoneLeafMound,-8393,-8386,-3390,-3381
 StonePlantMound,-8402,-8397,-3406,-3401
 StonePlantMound4,-8205,-8198,-3429,-3422
+P_RuinedHouse,-8431,-8406,-3475,-3458

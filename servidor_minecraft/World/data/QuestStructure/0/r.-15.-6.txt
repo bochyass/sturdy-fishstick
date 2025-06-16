@@ -31,3 +31,5 @@ SmallWoodenCottage2,-7789,-7781,-3543,-3535
 StonePlantMound3,-7756,-7745,-3534,-3525
 StonePlantMound3,-7783,-7772,-3136,-3127
 StonePlantMound4,-7782,-7775,-3102,-3095
+StonePlantMound,-8146,-8141,-3563,-3558
+SmallAbandonedMine,-7715,-7690,-3307,-3292
