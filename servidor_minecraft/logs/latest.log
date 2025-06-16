@@ -3892,3 +3892,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [04:20:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Teleported bochynqui to -5719.5, 125.5, -2351.5]
 [04:21:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: bochynqui moved too quickly! 1.0173682466147511,-10.569599609183584,-0.09999998658895493
 [04:21:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Survival Mode]
+[04:23:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Creative Mode]
+[04:23:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Survival Mode]
+[04:28:37] [Server thread/INFO] [antiqueatlas]: Sending dimension #0
+[04:28:37] [Server thread/INFO] [antiqueatlas]: Sent dimension #0 (0 tiles)
+[04:28:37] [Server thread/INFO] [antiqueatlas]: Sent Atlas #0 data to player bochynqui
+[04:28:49] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[04:28:51] [Server thread/INFO] [antiqueatlas]: Created new marker #1""@(-8722, -3156)
+[04:28:51] [Server thread/INFO] [antiqueatlas]: Sent markers data #0 to player bochynqui
+[04:29:34] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[04:30:19] [Server thread/INFO] [antiqueatlas]: Created new marker #2"gui.antiqueatlas.marker.tomb bochynqui"@(-8722, -3156)
+[04:30:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bochynqui was slain by Wraith  Lvl 40
+[04:30:19] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[04:30:24] [Thread-151/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 6c0900de-ef4b-3203-85ad-79c1a51cf5f6.
+[04:30:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Teleported bochynqui to -8724.5, 136.5, -3156.5]

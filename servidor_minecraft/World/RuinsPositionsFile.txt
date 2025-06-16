@@ -318,6 +318,7 @@
 -5775 66 3545 -5768 70 3552 TinyFarmField.tml
 -5699 63 -2370 -5669 106 -2340 SkyCastle.tml
 -5698 63 -2491 -5666 76 -2459 Floater.tml
+-5512 62 -2267 -5507 70 -2262 PillarBase.tml
 -5297 83 -7503 -5290 87 -7496 TinyFarmField.tml
 -5296 67 -7761 -5287 73 -7749 VanillaVillageEmptyHouse-r.tml
 -5247 78 -7595 -5244 84 -7591 StonePillar.tml
