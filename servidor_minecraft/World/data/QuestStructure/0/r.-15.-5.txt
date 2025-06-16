@@ -1,2 +1,3 @@
 AbandonedWoodTower,-8179,-8143,-3041,-3011
 RLCraft_SmallUndergroundSkeleton,-7819,-7811,-3063,-3055
+ClayWaterMound1,-7772,-7761,-3048,-3038
