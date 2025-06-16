@@ -3947,3 +3947,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [04:48:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bochynqui was slain by Zombie
 [04:48:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Teleported bochynqui to -7295.5, 74.5, -882.5]
 [04:49:05] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[04:54:18] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: bochynqui lost connection: Disconnected
+[04:54:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bochynqui left the game
+[04:54:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[04:54:24] [Server thread/INFO] [AUW]: Stopping DS...
+[04:54:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[04:54:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[04:54:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[04:54:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'World'/overworld
+[04:54:25] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension 0 (World) to config
+[04:54:25] [Server thread/INFO] [FML]: Unloading dimension 0
+[04:54:25] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
