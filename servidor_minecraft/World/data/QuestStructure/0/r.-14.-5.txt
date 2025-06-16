@@ -1,0 +1,9 @@
+StonePlantMound,-7655,-7650,-2740,-2735
+StonePlantBoulder,-7650,-7640,-2598,-2588
+RLCraft_SmallUndergroundSkeleton,-7643,-7635,-2737,-2729
+StonePlantMound,-7609,-7604,-2621,-2616
+CorruptedEnderTree,-7608,-7597,-2639,-2626
+StonePlantMound4,-7540,-7533,-2653,-2646
+DinosaurSkull,-7386,-7375,-2661,-2642
+StonePlantMound,-7253,-7248,-2571,-2566
+StoneLeafMound,-7200,-7191,-2639,-2632

@@ -1,0 +1,7 @@
+StoneLeafMound,-6412,-6403,-2568,-2561
+P_WitchDungeon,-6553,-6519,-2599,-2582
+RLCraft_SmallUndergroundSkeleton,-6473,-6465,-2610,-2602
+P_RuinedHouse,-6464,-6439,-2611,-2594
+RLCraft_BasicWitch,-6423,-6423,-2651,-2651
+RLCraft_UndergroundRuin1,-6429,-6420,-2657,-2648
+SmallFortRuins,-6305,-6275,-2782,-2750
