@@ -3906,3 +3906,28 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [04:30:19] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
 [04:30:24] [Thread-151/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 6c0900de-ef4b-3203-85ad-79c1a51cf5f6.
 [04:30:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Teleported bochynqui to -8724.5, 136.5, -3156.5]
+[04:32:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Teleported bochynqui to -7961.5, 66.5, -2798.5]
+[04:34:17] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[04:34:17] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[04:34:17] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[04:34:17] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[04:34:20] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[04:34:20] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[04:34:20] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[04:34:20] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[04:34:20] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[04:34:24] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[04:35:30] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIFindHidingSpot
+[04:35:30] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAILeaveHive
+[04:35:30] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIMoveThroughHive
+[04:35:30] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIReEnterHive
+[04:35:30] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedProximityTaskOldMyrmex
+[04:35:30] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIEscortEntity
+[04:35:30] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIForage
+[04:35:31] [Server thread/INFO] [RLTweaker]: Clearing broken myrmex queen trades: BlockPos{x=-7672, y=41, z=-2232}
+[04:36:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Creative Mode]
+[04:37:26] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2709ms behind, skipping 54 tick(s)
+[04:37:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Survival Mode]
+[04:40:37] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX -459 and chunkZ -51...
+[04:40:38] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_forest_temple at {"x": -7551, "y": 0, "z": -926}...
+[04:40:38] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_forest_temple at {"x": -7551, "y": 0, "z": -926}.

@@ -48,3 +48,4 @@ StoneMazePath,-7771,-7769,-2566,-2564
 StoneMazePath,-7771,-7769,-2563,-2561
 StoneMazePath,-7768,-7766,-2566,-2564
 StoneMazeEndChest,-7768,-7766,-2563,-2561
+UndergroundCultChamber,-8090,-8048,-2600,-2568

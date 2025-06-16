@@ -1,0 +1,15 @@
+DinosaurSkeleton,-7948,-7939,-1935,-1889
+MeteorSite,-7937,-7907,-1907,-1892
+RLCraft_DecentCaveSpider,-7754,-7754,-1797,-1797
+RLCraft_UndergroundRuin2,-7759,-7752,-1802,-1792
+RLCraft_DecentSpider,-7848,-7848,-1723,-1723
+RLCraft_UndergroundRuin2,-7853,-7843,-1725,-1718
+StoneBoulder,-8030,-8021,-1733,-1724
+DinosaurSkull,-8047,-8028,-1718,-1707
+RLCraft_DecentCaveSpider,-7892,-7892,-1721,-1721
+RLCraft_UndergroundRuin3,-7897,-7889,-1723,-1715
+P_WitchDungeon,-7978,-7944,-1693,-1676
+ShrineSmallFire,-7955,-7945,-1667,-1657
+UndergroundTreeoid,-7791,-7768,-1637,-1611
+WoodWallRemains,-8020,-8012,-1583,-1555
+StonePlantMound4,-7706,-7699,-1596,-1589
