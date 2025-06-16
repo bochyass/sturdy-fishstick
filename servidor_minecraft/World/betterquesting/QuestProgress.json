@@ -4511,11 +4511,26 @@
     },
     "305:10": {
       "questID:3": 305,
-      "completed:9": {},
+      "completed:9": {
+        "0:10": {
+          "claimed:1": 0,
+          "uuid:8": "6c0900de-ef4b-3203-85ad-79c1a51cf5f6",
+          "timestamp:4": 1750079565455
+        }
+      },
       "tasks:9": {
         "0:10": {
-          "completeUsers:9": {},
-          "userProgress:9": {},
+          "completeUsers:9": {
+            "0:8": "6c0900de-ef4b-3203-85ad-79c1a51cf5f6"
+          },
+          "userProgress:9": {
+            "0:10": {
+              "data:9": {
+                "0:3": 1
+              },
+              "uuid:8": "6c0900de-ef4b-3203-85ad-79c1a51cf5f6"
+            }
+          },
           "index:3": 0,
           "taskID:8": "bq_standard:retrieval"
         },
@@ -4529,7 +4544,13 @@
     },
     "306:10": {
       "questID:3": 306,
-      "completed:9": {},
+      "completed:9": {
+        "0:10": {
+          "claimed:1": 0,
+          "uuid:8": "6c0900de-ef4b-3203-85ad-79c1a51cf5f6",
+          "timestamp:4": 1750079568454
+        }
+      },
       "tasks:9": {
         "0:10": {
           "completeUsers:9": {},
@@ -4538,8 +4559,17 @@
           "taskID:8": "bq_standard:retrieval"
         },
         "1:10": {
-          "completeUsers:9": {},
-          "userProgress:9": {},
+          "completeUsers:9": {
+            "0:8": "6c0900de-ef4b-3203-85ad-79c1a51cf5f6"
+          },
+          "userProgress:9": {
+            "0:10": {
+              "data:9": {
+                "0:3": 1
+              },
+              "uuid:8": "6c0900de-ef4b-3203-85ad-79c1a51cf5f6"
+            }
+          },
           "index:3": 1,
           "taskID:8": "bq_standard:retrieval"
         },
@@ -4553,11 +4583,26 @@
     },
     "307:10": {
       "questID:3": 307,
-      "completed:9": {},
+      "completed:9": {
+        "0:10": {
+          "claimed:1": 0,
+          "uuid:8": "6c0900de-ef4b-3203-85ad-79c1a51cf5f6",
+          "timestamp:4": 1750079562457
+        }
+      },
       "tasks:9": {
         "0:10": {
-          "completeUsers:9": {},
-          "userProgress:9": {},
+          "completeUsers:9": {
+            "0:8": "6c0900de-ef4b-3203-85ad-79c1a51cf5f6"
+          },
+          "userProgress:9": {
+            "0:10": {
+              "data:9": {
+                "0:3": 1
+              },
+              "uuid:8": "6c0900de-ef4b-3203-85ad-79c1a51cf5f6"
+            }
+          },
           "index:3": 0,
           "taskID:8": "bq_standard:retrieval"
         }

@@ -1119,6 +1119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-06-16 13:10:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2025-06-15 20:03:42 +0000"
@@ -1341,6 +1347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-06-16 13:10:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-06-15 19:39:44 +0000"
@@ -1484,6 +1496,7 @@
       "jungle_hills": "2025-06-16 04:36:59 +0000",
       "jungle_edge": "2025-06-16 04:36:17 +0000",
       "savanna_rock": "2025-06-15 21:59:11 +0000",
+      "ice_mountains": "2025-06-16 13:09:03 +0000",
       "redwood_taiga": "2025-06-15 20:41:48 +0000",
       "taiga": "2025-06-15 23:41:54 +0000",
       "taiga_hills": "2025-06-16 03:29:52 +0000",
@@ -1556,6 +1569,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-15 23:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-06-16 13:10:15 +0000"
     },
     "done": true
   },
@@ -1682,6 +1701,12 @@
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_brick_block": "2025-06-15 22:49:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stonebrick": {
+    "criteria": {
+      "has_stone": "2025-06-16 13:10:15 +0000"
     },
     "done": true
   },

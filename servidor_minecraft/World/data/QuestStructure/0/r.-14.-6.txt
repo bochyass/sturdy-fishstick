@@ -5,3 +5,5 @@ ShrineSmallFire,-7658,-7648,-3545,-3535
 StoneLeafMound,-7652,-7643,-3495,-3488
 SmallWoodenCottage,-7625,-7614,-3381,-3373
 StonePlantBoulder,-7557,-7547,-3581,-3571
+SmallAbandonedMine,-7348,-7323,-3163,-3148
+StoneIceBoulder2,-7197,-7188,-3527,-3518
