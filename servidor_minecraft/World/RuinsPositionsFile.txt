@@ -220,6 +220,7 @@
 -7378 66 -7618 -7372 72 -7612 SnowHouse2.tml
 -7371 63 8499 -7341 106 8529 SkyCastle.tml
 -7367 54 -6800 -7360 64 -6793 BridgePilings-sm2.tml
+-7366 69 -607 -7363 73 -605 SkeletonHeadStatue.tml
 -7365 68 -2497 -7355 74 -2489 VanillaVillageForge-r.tml
 -7358 62 -2589 -7349 68 -2583 PortalShrine.tml
 -7357 63 8501 -7323 73 8536 UnderwaterBase.tml
@@ -237,7 +238,9 @@
 -7304 63 -698 -7299 68 -692 VanillaVillageCobble-p.tml
 -7278 63 -7600 -7272 69 -7594 SnowHouse1.tml
 -7273 64 -7455 -7262 92 -7444 FrozenTree.tml
+-7270 68 -961 -7268 72 -958 SkeletonHeadStatue.tml
 -7270 63 -2620 -7267 69 -2616 StonePillar.tml
+-7257 67 -1039 -7249 75 -1030 WoodHouse_Intact.tml
 -7244 86 8480 -7239 94 8485 PillarBase.tml
 -7244 71 -7529 -7239 83 -7524 FrozenBush.tml
 -7241 48 -6863 -7230 59 -6827 SunkenShip-v3.tml

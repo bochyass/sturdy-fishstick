@@ -3931,3 +3931,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [04:40:37] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX -459 and chunkZ -51...
 [04:40:38] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_forest_temple at {"x": -7551, "y": 0, "z": -926}...
 [04:40:38] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_forest_temple at {"x": -7551, "y": 0, "z": -926}.
+[04:42:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Creative Mode]
+[04:42:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Survival Mode]
+[04:43:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Creative Mode]
+[04:43:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Survival Mode]
+[04:43:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Creative Mode]
+[04:43:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Survival Mode]
+[04:44:01] [Server thread/INFO] [antiqueatlas]: Created new marker #3"gui.antiqueatlas.marker.tomb bochynqui"@(-7298, -878)
+[04:44:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bochynqui was slain by Zombie
+[04:44:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Teleported bochynqui to -7298.5, 63.5, -878.5]
+[04:44:35] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[04:46:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Creative Mode]
+[04:47:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Survival Mode]
+[04:48:20] [Server thread/INFO] [antiqueatlas]: Created new marker #4"gui.antiqueatlas.marker.tomb bochynqui"@(-7296, -882)
+[04:48:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bochynqui was slain by Zombie
+[04:48:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Teleported bochynqui to -7295.5, 74.5, -882.5]
+[04:49:05] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
