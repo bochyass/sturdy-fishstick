@@ -3746,3 +3746,26 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [01:36:09] [Server thread/INFO] [RLTweakerASM]: Patch exists for pw.prok.realbench.WorkbenchInventory
 [01:36:09] [Server thread/INFO] [RLTweakerASM]: Writing class pw.prok.realbench.WorkbenchInventory with flags MAXS | FRAMES
 [01:36:09] [Server thread/INFO] [RLTweaker]: HookRealBench reflected successfully!
+[01:38:14] [Server thread/INFO] [Meson ASM]: Transforming ItemHandlerHelper
+[01:38:14] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [insertItem, insertItem, ] Descriptor (Lnet/minecraftforge/items/IItemHandler;Lnet/minecraft/item/ItemStack;Z)Lnet/minecraft/item/ItemStack; / (Lnet/minecraftforge/items/IItemHandler;Laip;Z)Laip;)
+[01:38:14] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[01:38:14] [Server thread/INFO] [Meson ASM]: Located target ALOAD 0
+[01:38:14] [Server thread/INFO] [Meson ASM]: Patch result: true
+[01:39:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Game rule keepinventory has been updated to true
+[01:39:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bochynqui died
+[01:39:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Killed bochynqui]
+[01:39:50] [Thread-93/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 6c0900de-ef4b-3203-85ad-79c1a51cf5f6.
+[01:39:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Teleported bochynqui to -8719.5, 132.0, -3158.5]
+[01:42:28] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: bochynqui lost connection: Disconnected
+[01:42:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bochynqui left the game
+[01:42:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[01:42:34] [Server thread/INFO] [AUW]: Stopping DS...
+[01:42:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[01:42:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[01:42:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[01:42:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'World'/overworld
+[01:42:34] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension 0 (World) to config
+[01:42:34] [Server thread/INFO] [FML]: Unloading dimension 0
+[01:42:34] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[01:42:34] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[01:42:34] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
