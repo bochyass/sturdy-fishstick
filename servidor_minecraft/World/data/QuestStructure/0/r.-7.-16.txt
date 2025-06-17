@@ -1,0 +1,3 @@
+P_LargeShip,-3964,-3946,-8281,-8221
+RLCraft_BasicZombie,-3866,-3866,-8249,-8249
+RLCraft_UndergroundRuin1,-3872,-3863,-8255,-8246

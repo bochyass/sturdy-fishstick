@@ -1,0 +1,4 @@
+MysticalTree1,-9600,-9589,-3358,-3345
+RLCraft_FriendlyOutpost,-9658,-9590,-3284,-3245
+StoneBoulder,-9714,-9705,-3432,-3423
+ShrineSmallAir,-9657,-9649,-3445,-3437

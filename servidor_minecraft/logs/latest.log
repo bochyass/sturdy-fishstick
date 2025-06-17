@@ -4955,3 +4955,60 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [01:45:02] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2291ms behind, skipping 45 tick(s)
 [01:45:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [walter: Teleported walter to -7967.5, 44.5, -2852.5]
 [01:45:04] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[01:45:38] [Server thread/INFO] [antiqueatlas]: Created new marker #20"gui.antiqueatlas.marker.tomb bochynqui"@(-7965, -2860)
+[01:45:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bochynqui was slain by Wraamon  Lvl 2
+[01:45:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Opped walter]
+[01:45:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Teleported bochynqui to walter]
+[01:46:01] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[01:46:14] [Server thread/INFO] [antiqueatlas]: Created new marker #21"gui.antiqueatlas.marker.tomb bochynqui"@(-7967, -2855)
+[01:46:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bochynqui was slain by Wraamon  Lvl 2
+[01:46:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Teleported bochynqui to walter]
+[01:46:46] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[01:48:54] [Server thread/INFO] [antiqueatlas]: Created new marker #22"gui.antiqueatlas.marker.tomb bochynqui"@(-7965, -2858)
+[01:48:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bochynqui was slain by Chupacabra  Lvl 2
+[01:48:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Teleported bochynqui to -7966.5, 44.5, -2858.5]
+[01:49:01] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[01:49:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bochynqui was slain by Chupacabra  Lvl 2
+[01:49:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: walter was slain by Dark Wraamon  Lvl 2
+[01:49:08] [Server thread/INFO] [RLTweakerASM]: Patch exists for net.minecraftforge.items.VanillaInventoryCodeHooks
+[01:49:08] [Server thread/INFO] [RLTweakerASM]: Writing class net.minecraftforge.items.VanillaInventoryCodeHooks with flags MAXS
+[01:49:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Teleported bochynqui to -7966.5, 44.5, -2858.5]
+[01:49:13] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3179ms behind, skipping 63 tick(s)
+[01:49:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bochynqui was slain by Chupacabra  Lvl 2
+[01:49:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [walter: Teleported walter to -7967.5, 44.5, -2838.5]
+[01:49:19] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[01:49:19] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[01:49:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Teleported bochynqui to -7966.5, 44.5, -2852.5]
+[01:49:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: walter was slain by Dark Wraamon  Lvl 2
+[01:50:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [walter: Teleported walter to -7966.5, 44.5, -2838.5]
+[01:50:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: walter was slain by Verdant Chupacabra  Lvl 2
+[01:50:46] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2018ms behind, skipping 40 tick(s)
+[01:50:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [walter: Teleported walter to bochynqui]
+[01:50:57] [Server thread/INFO] [antiqueatlas]: Created new marker #23"gui.antiqueatlas.marker.tomb bochynqui"@(-7967, -2860)
+[01:50:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bochynqui was slain by Chupacabra  Lvl 2
+[01:51:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Teleported bochynqui to -7967.5, 44.5, -2858.5]
+[01:51:17] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[01:51:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: walter was slain by Verdant Chupacabra  Lvl 2
+[01:51:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [walter: Teleported walter to bochynqui]
+[01:52:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: walter was slain by Wraamon  Lvl 2
+[01:52:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [walter: Teleported walter to bochynqui]
+[01:52:03] [Server thread/INFO] [RLTweaker]: Clearing broken myrmex queen trades: BlockPos{x=-4584, y=41, z=6040}
+[01:52:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: walter was slain by Wraamon  Lvl 2
+[01:52:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [walter: Teleported walter to bochynqui]
+[01:52:49] [Server thread/INFO] [antiqueatlas]: Created new marker #24"gui.antiqueatlas.marker.tomb bochynqui"@(-7967, -2862)
+[01:52:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bochynqui was slain by Troll
+[01:52:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Teleported bochynqui to -7967.5, 44.5, -2859.5]
+[01:53:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bochynqui was slain by Chupacabra  Lvl 2
+[01:53:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Teleported bochynqui to -7967.5, 44.5, -2857.5]
+[01:53:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bochynqui was slain by Chupacabra  Lvl 2
+[01:53:32] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[01:53:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Teleported bochynqui to -7965.5, 44.5, -2858.5]
+[01:53:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bochynqui was slain by Chupacabra  Lvl 2
+[01:53:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Teleported bochynqui to -7967.5, 44.5, -2860.5]
+[01:53:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bochynqui was slain by Chupacabra  Lvl 2
+[01:53:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Teleported bochynqui to -7967.5, 44.5, -2861.5]
+[01:54:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: walter was slain by Chupacabra  Lvl 2
+[01:54:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [walter: Teleported walter to -7966.5, 43.5, -2842.5]
+[01:54:08] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2549ms behind, skipping 50 tick(s)
+[01:54:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bochynqui was slain by Chupacabra  Lvl 2
+[01:54:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Teleported bochynqui to -7967.5, 44.5, -2853.5]

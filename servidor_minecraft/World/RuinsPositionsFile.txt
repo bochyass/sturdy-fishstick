@@ -9,6 +9,10 @@
 # It should also prevent Ruins re-spawning under any circumstances. Areas registered in here block any overlapping new Ruins.
 # Empty lines and those prefixed by '#' are ignored by the parser. Don't save notes in here, file gets wiped upon flushing.
 #
+-9754 63 -3275 -9747 70 -3268 Outcrop.tml
+-9689 69 -3460 -9681 75 -3452 ShortTower.tml
+-9681 66 -3370 -9666 77 -3359 Barn-ruined.tml
+-9587 62 -3299 -9583 70 -3295 SmallWell.tml
 -9229 154 2645 -9225 156 2649 EmeraldOreOutcrop.tml
 -9207 73 -5542 -9199 83 -5534 LargeStoneHouseWBasement.tml
 -9167 64 -5447 -9156 75 -5432 Barn-intact.tml
@@ -355,6 +359,7 @@
 -6461 68 -2538 -6456 73 -2533 VanillaVillageLadder-p.tml
 -6454 63 5810 -6424 106 5840 SkyCastle.tml
 -6444 57 -2396 -6437 66 -2389 BridgePilings-small.tml
+-6443 36 2954 -6417 48 2962 shipwreck.tml
 -6437 63 -2794 -6430 68 -2789 ZombieHut.tml
 -6418 67 -6374 -6406 112 -6362 TowerMedium.tml
 -6410 69 -2322 -6405 72 -2315 Melonfield.tml
@@ -364,6 +369,7 @@
 -6392 63 -2623 -6388 69 -2620 StonePillar.tml
 -6384 33 5592 -6376 45 5618 shipwreck.tml
 -6350 63 5834 -6320 103 5865 CastleOcean.tml
+-6346 96 2901 -6342 104 2905 SmallWell.tml
 -6329 63 -6284 -6314 74 -6273 Barn-ruined.tml
 -6326 68 -2522 -6322 76 -2518 SmallWell.tml
 -6322 61 -6272 -6310 70 -6262 StoneHouseMruined.tml
@@ -419,6 +425,13 @@
 -5699 63 -2370 -5669 106 -2340 SkyCastle.tml
 -5698 63 -2491 -5666 76 -2459 Floater.tml
 -5512 62 -2267 -5507 70 -2262 PillarBase.tml
+-5489 71 -447 -5487 75 -444 SkeletonHeadStatue.tml
+-5473 64 -360 -5467 69 -356 VanillaVillageHut-r.tml
+-5460 71 -521 -5451 78 -512 WoodHouse2_Intact.tml
+-5420 67 -446 -5412 77 -438 TallTower.tml
+-5336 68 -461 -5331 76 -456 PillarBase.tml
+-5335 68 -367 -5326 76 -359 WoodHouse_Intact.tml
+-5314 61 -542 -5305 76 -533 MoaiHead.tml
 -5297 83 -7503 -5290 87 -7496 TinyFarmField.tml
 -5296 67 -7761 -5287 73 -7749 VanillaVillageEmptyHouse-r.tml
 -5247 78 -7595 -5244 84 -7591 StonePillar.tml
@@ -454,6 +467,7 @@
 -4609 68 4853 -4598 83 4866 StoneHouseM.tml
 -4609 70 -7510 -4601 76 -7502 LargeStoneHouse.tml
 -4601 63 4430 -4595 76 4437 TP_FishingShack.tml
+-4585 59 5986 -4573 80 5997 JungleTreePlatform_edit.tml
 -4584 72 -7216 -4576 82 -7208 LargeStoneHouseWBasement.tml
 -4575 64 5238 -4569 70 5247 PortalShrine.tml
 -4573 64 4180 -4547 72 4201 GraveyardHaunted.tml
@@ -532,6 +546,7 @@
 -4102 65 5316 -4094 111 5324 SandCastle.tml
 -4095 69 5409 -4088 73 5416 TinyFarmField.tml
 -4080 133 4739 -4075 212 4746 Monolith.tml
+-4079 63 -8351 -4049 106 -8321 SkyCastle.tml
 -4069 64 -7044 -4059 81 -7034 WatchtowerRuined.tml
 -4065 124 4931 -4061 130 4934 StonePillar.tml
 -4063 77 -6945 -4055 83 -6937 ShortTower.tml
@@ -544,11 +559,15 @@
 -3985 65 -6980 -3977 75 -6972 LargeStoneHouseWBasement.tml
 -3985 73 -7056 -3977 79 -7046 VanillaVillageForge-r.tml
 -3950 61 5319 -3942 66 5327 LargeSandstoneHouse.tml
+-3945 48 -8416 -3937 60 -8390 shipwreck.tml
 -3941 64 5412 -3932 67 5421 RuinedSmallFountainDiagonal.tml
+-3940 49 -8499 -3904 60 -8488 SunkenShip-v3.tml
+-3939 63 -8315 -3909 103 -8284 CastleOcean.tml
 -3909 67 -7039 -3903 73 -7031 StoneHouse.tml
 -3899 69 -6940 -3893 86 -6934 VanillaVillageWell-p.tml
 -3870 81 -1976 -3863 88 -1969 Outcrop.tml
 -3845 63 -9142 -3815 103 -9111 CastleOcean.tml
+-3838 47 -8510 -3802 66 -8499 SunkenShip-v2.tml
 -3826 68 -9439 -3811 76 -9424 Mausoleum.tml
 -3809 68 -9438 -3801 77 -9429 HutRuined.tml
 -3805 63 -9306 -3775 106 -9276 SkyCastle.tml
@@ -603,6 +622,7 @@
 -2930 62 -2868 -2926 70 -2864 SmallWell.tml
 -2855 63 -3096 -2824 103 -3066 CastleOcean.tml
 -2798 63 -6320 -2768 100 -6290 PirateShip.tml
+-2779 34 1245 -2753 46 1253 shipwreck.tml
 -2770 48 -6193 -2759 59 -6157 SunkenShip-v3.tml
 -2739 77 -5178 -2731 87 -5170 LargeStoneHouseWBasement.tml
 -2712 63 7994 -2682 103 8025 CastleOcean.tml
@@ -766,7 +786,9 @@
 -86 64 6234 -79 71 6241 Outcrop.tml
 -86 72 6332 -78 82 6340 LargeStoneHouseWBasement.tml
 -85 65 -1411 -76 71 -1399 VanillaVillagePig-p.tml
+-83 50 2215 -72 69 2251 SunkenShip-v2.tml
 -71 78 -8680 -69 82 -8677 SkeletonHeadStatue.tml
+-68 53 2238 -57 72 2274 SunkenShip-v2.tml
 -59 98 6113 -54 106 6118 PillarBase.tml
 -55 66 -1332 -47 75 -1324 LargeStoneTwoStoryHouse.tml
 -52 123 -8784 -45 127 -8777 TinyFarmField.tml
@@ -775,9 +797,12 @@
 -15 81 -1548 -12 85 -1545 StoneGrill.tml
 -9 66 31 -2 69 36 PumpkinField.tml
 -2 68 105 2 76 109 SmallWell.tml
+2 63 2128 32 100 2158 PirateShip.tml
 2 66 332 11 69 341 RuinedSmallFountainDiagonal.tml
+3 63 2134 35 76 2166 Floater.tml
 11 70 246 14 74 248 SkeletonHeadStatue.tml
 12 167 -8706 16 169 -8702 EmeraldOreOutcrop.tml
+16 47 2235 42 59 2243 shipwreck.tml
 17 73 -1446 25 83 -1438 TallTower.tml
 32 63 -1093 40 73 -1085 TallTower.tml
 34 136 -8832 43 151 -8823 MoaiHead.tml
@@ -1339,7 +1364,10 @@
 8625 63 7106 8629 69 7109 StonePillar.tml
 8670 80 6996 8683 89 7009 VolcanicVent.tml
 8688 70 7282 8693 73 7289 PumpkinField.tml
+8694 61 -6214 8701 140 -6209 Monolith.tml
+8700 66 -6409 8705 135 -6404 DiamondWell.tml
 8702 101 7129 8706 103 7133 EmeraldOreOutcrop.tml
+8708 69 -6310 8717 72 -6301 RuinedSmallFountainDiagonal.tml
 8786 64 -6235 8794 110 -6227 SandCastle.tml
 8786 62 -6414 8792 73 -6408 Obelisk.tml
 8795 64 -6408 8806 70 -6399 SandstoneBld3_Ruined.tml

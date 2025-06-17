@@ -1,0 +1,2 @@
+ShrineSmallAir,-6459,-6451,2973,2981
+MysticalTree1,-6349,-6336,2963,2974
