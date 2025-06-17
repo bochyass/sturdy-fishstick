@@ -1,0 +1,3 @@
+StonePlantMound3,-9985,-9974,-3593,-3584
+StoneBoulder,-10028,-10019,-3591,-3582
+ShrineSmallFire,-10089,-10079,-3628,-3618

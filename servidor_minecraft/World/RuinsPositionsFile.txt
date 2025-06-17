@@ -9,10 +9,43 @@
 # It should also prevent Ruins re-spawning under any circumstances. Areas registered in here block any overlapping new Ruins.
 # Empty lines and those prefixed by '#' are ignored by the parser. Don't save notes in here, file gets wiped upon flushing.
 #
+-10240 69 -3378 -10233 76 -3371 Outcrop.tml
+-10240 69 -3413 -10233 73 -3406 TinyFarmField.tml
+-10239 69 -3392 -10231 75 -3386 StoneHouse.tml
+-10229 66 -3306 -10214 74 -3297 Archway.tml
+-10200 66 -3520 -10198 70 -3517 SkeletonHeadStatue.tml
+-10194 62 -3599 -10190 68 -3596 StonePillar.tml
+-10148 62 -3450 -10140 68 -3442 ShortTower.tml
+-10100 64 -3536 -10092 74 -3528 TallTower.tml
+-10091 67 -3609 -10085 84 -3603 VanillaVillageWell-p.tml
+-10083 65 -3524 -10075 75 -3516 TallTower.tml
+-10029 62 -3383 -10022 65 -3378 PumpkinField.tml
+-10003 69 -3627 -9994 78 -3619 HutRuined.tml
+-9990 62 -3487 -9985 70 -3482 PillarBase.tml
+-9972 69 -3306 -9964 75 -3298 LargeStoneHouse.tml
+-9941 62 -3385 -9935 68 -3377 StoneHouse.tml
+-9923 70 -3600 -9908 81 -3589 Barn-intact.tml
+-9890 70 -3479 -9884 75 -3474 VanillaVillageCobbleHouse-r.tml
+-9856 62 -3340 -9847 73 -3332 HutIntact.tml
+-9841 72 -3640 -9836 77 -3635 VanillaVillageLadder-p.tml
+-9829 71 -3633 -9820 78 -3624 WoodHouse2_Ruined.tml
+-9808 62 -3421 -9800 72 -3413 LargeStoneHouseWBasement.tml
+-9774 68 -3508 -9767 72 -3501 TinyFarmField.tml
 -9754 63 -3275 -9747 70 -3268 Outcrop.tml
+-9709 70 -3599 -9707 74 -3596 SkeletonHeadStatue.tml
+-9698 64 -3200 -9685 73 -3187 VolcanicVent.tml
 -9689 69 -3460 -9681 75 -3452 ShortTower.tml
 -9681 66 -3370 -9666 77 -3359 Barn-ruined.tml
+-9632 69 -3549 -9622 78 -3537 StoneHouseMruined.tml
+-9629 60 -3666 -9621 69 -3658 LargeStoneTwoStoryHouse.tml
+-9626 70 -3537 -9616 76 -3529 VanillaVillageForge-r.tml
+-9625 63 -3651 -9613 108 -3639 TowerEasy.tml
 -9587 62 -3299 -9583 70 -3295 SmallWell.tml
+-9552 64 -3422 -9545 69 -3417 ZombieHut.tml
+-9551 71 -3174 -9545 76 -3169 VanillaVillageCobbleHouse-r.tml
+-9543 68 -3499 -9528 76 -3490 Archway.tml
+-9503 68 -3054 -9500 74 -3050 StonePillar.tml
+-9480 63 -3580 -9468 134 -3568 GateUnderGlass.tml
 -9478 64 -3403 -9470 74 -3395 TallTower.tml
 -9476 67 -3305 -9468 73 -3297 LargeStoneHouse.tml
 -9461 77 -3182 -9454 84 -3175 Outcrop.tml

@@ -21,3 +21,16 @@ StoneLeafMound,-9396,-9387,-3414,-3407
 PeacefulCrypt,-9434,-9410,-3420,-3404
 StonePlantMound1,-9443,-9437,-3451,-3445
 RLCraft_SmallUndergroundSkeleton,-9238,-9230,-3490,-3482
+SmallWoodenCottage,-9523,-9515,-3324,-3313
+StonePlantMound,-9502,-9497,-3468,-3463
+RLCraft_DecentCaveSpider,-9576,-9576,-3406,-3406
+RLCraft_UndergroundRuin2,-9581,-9574,-3411,-3401
+StonePlantMound2,-9500,-9488,-3495,-3482
+StonePlantBoulder,-9453,-9443,-3504,-3494
+StonePlantBoulder,-9535,-9525,-3527,-3517
+StonePlantMound,-9558,-9553,-3526,-3521
+RLCraft_DecentWitch,-9572,-9572,-3542,-3542
+RLCraft_UndergroundRuin3,-9574,-9566,-3547,-3539
+StonePlantMound,-9706,-9701,-3546,-3541
+RLCraft_BasicWitch,-9423,-9423,-3554,-3554
+RLCraft_UndergroundRuin1,-9426,-9417,-3560,-3551

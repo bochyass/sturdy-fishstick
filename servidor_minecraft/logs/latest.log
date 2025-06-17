@@ -3779,3 +3779,30 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [02:19:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Survival Mode]
 [02:19:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Opped walter]
 [02:19:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [walter: Teleported walter to -9149.5, 83.5, -3328.5]
+[02:21:15] [Server thread/INFO] [antiqueatlas]: Created new marker #28"gui.antiqueatlas.marker.tomb bochynqui"@(-9344, -3278)
+[02:21:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bochynqui was slain by Stryder  Lvl 2
+[02:21:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Teleported bochynqui to -9346.5, 63.5, -3276.5]
+[02:21:31] [Server thread/INFO] [RB-Transformer]: Injecting into pw.prok.realbench.WorkbenchInventory (pw.prok.realbench.WorkbenchInventory)
+[02:21:31] [Server thread/INFO] [RB-Transformer]:  - <init>
+[02:21:31] [Server thread/INFO] [RB-Transformer]:  - Done
+[02:21:31] [Server thread/INFO] [RLTweakerASM]: Patch exists for pw.prok.realbench.WorkbenchInventory
+[02:21:31] [Server thread/INFO] [RLTweakerASM]: Writing class pw.prok.realbench.WorkbenchInventory with flags MAXS | FRAMES
+[02:21:31] [Server thread/INFO] [RLTweaker]: HookRealBench reflected successfully!
+[02:21:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: bochynqui moved wrongly!
+[02:21:49] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[02:21:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: walter was slain by Aegis  Lvl 2
+[02:21:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bochynqui was slain by Stryder  Lvl 2
+[02:21:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Teleported bochynqui to -9343.5, 69.5, -3276.5]
+[02:21:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [walter: Teleported walter to -9208.5, 77.5, -3277.5]
+[02:22:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bochynqui was slain by Stryder  Lvl 2
+[02:22:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Teleported bochynqui to -9342.5, 63.5, -3277.5]
+[02:22:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: bochynqui moved wrongly!
+[02:23:34] [Server thread/INFO] [antiqueatlas]: Created new marker #29"gui.antiqueatlas.marker.tomb bochynqui"@(-9339, -3275)
+[02:23:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bochynqui was slain by Stryder  Lvl 2
+[02:23:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Teleported bochynqui to -9335.5, 63.5, -3275.5]
+[02:23:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: bochynqui moved wrongly!
+[02:23:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bochynqui was blown up by Creeper
+[02:23:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Teleported bochynqui to -9347.5, 63.5, -3273.5]
+[02:24:04] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[02:29:49] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type Netherrack spawned at [ -10072 | -3448 ], underground: false
+[02:30:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [walter: Teleported walter to bochynqui]
