@@ -1,0 +1,3 @@
+UndergroundTreeoid,-9535,-9512,-2542,-2516
+SmallFortRuinsJapanese,-9718,-9672,-2529,-2483
+StoneBoulder,-9483,-9474,-2466,-2457

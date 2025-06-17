@@ -91,3 +91,6 @@ StoneMazePath,109,111,-4373,-4371
 StoneMazeEndChest,112,114,-4373,-4371
 StoneMazeBig,94,141,-4418,-4371
 DesertWatchtower,45,55,-4363,-4353
+RLCraft_SmallUndergroundSkeleton,67,75,-4168,-4160
+DinosaurSkull,44,55,-4283,-4264
+P_WitchDungeon,-44,-10,-4122,-4105

@@ -807,6 +807,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-06-17 02:54:56 +0000"
+    },
+    "done": true
+  },
   "defiledlands:recipes/armor/scale_helmet": {
     "criteria": {
       "has_material": "2025-06-15 20:11:57 +0000"
@@ -1392,6 +1398,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-06-15 21:33:19 +0000"
+    },
+    "done": true
+  },
+  "qualitytools:recipes/qualitytools/reforging_station": {
+    "criteria": {
+      "has_anvil": "2025-06-17 02:55:12 +0000"
     },
     "done": true
   },

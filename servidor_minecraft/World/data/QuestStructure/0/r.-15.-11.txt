@@ -1,0 +1,3 @@
+RLCraft_DecentSkeleton,-8184,-8184,-6083,-6083
+RLCraft_UndergroundRuin3,-8186,-8178,-6088,-6080
+StoneIceBoulder1,-8103,-8093,-6080,-6070

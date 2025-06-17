@@ -427,6 +427,12 @@
     },
     "done": true
   },
+  "defiledlands:main/kill_all_mobs": {
+    "criteria": {
+      "slime_defiled": "2025-06-17 02:57:02 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-06-15 19:57:14 +0000"

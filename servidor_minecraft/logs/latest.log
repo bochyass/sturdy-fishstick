@@ -3925,3 +3925,67 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [02:48:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Teleported bochynqui to walter]
 [02:48:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Creative Mode]
 [02:48:37] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.item.EntityFireworkRocket from class de.Whitedraco.switchbow.entity.arrow.EntityArrowFirework
+[02:54:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Survival Mode]
+[02:54:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: walter has made the advancement [Enchanter]
+[02:55:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Creative Mode]
+[02:55:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Survival Mode]
+[02:55:24] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player bochynqui)
+[02:55:24] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player bochynqui)
+[02:55:24] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player bochynqui)
+[02:55:24] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player bochynqui)
+[02:55:24] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player bochynqui)
+[02:55:24] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player bochynqui)
+[02:55:24] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player bochynqui)
+[02:55:29] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player bochynqui)
+[02:55:29] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player bochynqui)
+[02:55:29] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player bochynqui)
+[02:55:44] [Server thread/INFO] [Meson ASM]: Transforming ContainerRepair
+[02:55:44] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [updateRepairOutput, func_82848_d, e] Descriptor ()V / ()V)
+[02:55:44] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[02:55:44] [Server thread/INFO] [Meson ASM]: Located target ICONST_0
+[02:55:44] [Server thread/INFO] [Meson ASM]: Patch result: true
+[02:55:44] [Server thread/INFO] [Meson ASM]: Transforming ContainerRepair2
+[02:55:44] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [canTakeStack, func_82869_a, a] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;)Z / (Laed;)Z)
+[02:55:44] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[02:55:44] [Server thread/INFO] [Meson ASM]: Located target IFLE L0
+[02:55:44] [Server thread/INFO] [Meson ASM]: Patch result: true
+[02:56:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Creative Mode]
+[02:56:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [walter: Set own game mode to Survival Mode]
+[02:56:13] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player walter)
+[02:56:13] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player walter)
+[02:56:25] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player walter)
+[02:56:26] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player walter)
+[02:56:26] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player walter)
+[02:56:26] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player walter)
+[02:56:26] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player walter)
+[02:56:27] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player walter)
+[02:56:27] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player walter)
+[02:56:27] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player walter)
+[02:56:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [walter: Set own game mode to Creative Mode]
+[02:57:02] [Server thread/INFO] [bountifulbaubles]: BlockPos{x=-10112, y=64, z=-3370}
+[02:57:02] [Server thread/INFO] [bountifulbaubles]: BlockPos{x=-10112, y=64, z=-3370}
+[02:57:02] [Server thread/INFO] [bountifulbaubles]: BlockPos{x=81, y=70, z=-4210}
+[02:57:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: walter moved too quickly! 10192.640633315435,6.0,-840.0102752824337
+[02:57:07] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX 0 and chunkZ -255...
+[02:57:08] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_desert_builtin_custom_loot at {"x": 4, "y": 0, "z": -4005}...
+[02:57:09] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_desert_builtin_custom_loot at {"x": 4, "y": 0, "z": -4005}.
+[02:57:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: bochynqui moved too quickly! -0.7254871520526649,-10.26456120860393,0.006432913243770599
+[02:57:10] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4146ms behind, skipping 82 tick(s)
+[02:57:10] [Server thread/INFO] [bountifulbaubles]: BlockPos{x=82, y=71, z=-4213}
+[02:57:10] [Server thread/INFO] [bountifulbaubles]: BlockPos{x=82, y=71, z=-4213}
+[02:57:10] [Server thread/INFO] [bountifulbaubles]: BlockPos{x=-3562, y=39, z=5420}
+[02:57:11] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: walter moved too quickly! -3643.5523053451407,-32.0,9632.830305000782
+[02:57:15] [Server thread/INFO] [bountifulbaubles]: BlockPos{x=-3562, y=40, z=5420}
+[02:57:15] [Server thread/INFO] [bountifulbaubles]: BlockPos{x=-3562, y=40, z=5420}
+[02:57:15] [Server thread/INFO] [bountifulbaubles]: BlockPos{x=-8144, y=76, z=-6184}
+[02:57:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: walter moved too quickly! -4582.0,36.31218044128068,-11604.0
+[02:57:20] [Server thread/INFO] [bountifulbaubles]: BlockPos{x=-8145, y=76, z=-6183}
+[02:57:20] [Server thread/INFO] [bountifulbaubles]: BlockPos{x=-8145, y=76, z=-6183}
+[02:57:20] [Server thread/INFO] [bountifulbaubles]: BlockPos{x=-9601, y=95, z=-2696}
+[02:57:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: walter moved too quickly! -1455.788206572528,18.975575813938917,3487.170085035663
+[02:57:33] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 10103ms behind, skipping 202 tick(s)
+[02:57:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: walter moved too quickly! -5.277573523362662,5.6250002222527655,7.125907820125576
+[02:57:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: bochynqui lost connection: Disconnected
+[02:57:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bochynqui left the game
+[02:57:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: walter lost connection: Disconnected
+[02:57:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: walter left the game
