@@ -1,0 +1,6 @@
+StoneLeafMound,5131,5138,-6304,-6295
+StonePlantMound,5155,5160,-6328,-6323
+ForestBeacon,5190,5198,-6279,-6271
+BrickHenge,5188,5204,-6259,-6243
+StonePlantMound1,5185,5191,-6357,-6351
+StonePlantMound1,5193,5199,-6213,-6207

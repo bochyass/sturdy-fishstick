@@ -1,0 +1,3 @@
+ClayWaterMound,5097,5104,-6214,-6206
+StoneBoulder,5084,5093,-6352,-6343
+StonePlantBoulder,5100,5110,-6192,-6182
