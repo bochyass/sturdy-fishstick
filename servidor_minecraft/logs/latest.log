@@ -3905,3 +3905,23 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [02:38:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Teleported bochynqui to walter]
 [02:39:42] [Server thread/INFO] [Scaling Health]: Blight Battletower Golem has died
 [02:41:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Survival Mode]
+[02:41:21] [Server thread/INFO] [antiqueatlas]: Created new marker #33"gui.antiqueatlas.marker.tomb bochynqui"@(-10103, -3376)
+[02:41:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bochynqui was slain by walter
+[02:41:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Teleported bochynqui to walter]
+[02:41:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Creative Mode]
+[02:42:06] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[02:43:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Survival Mode]
+[02:43:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bochynqui was slain by Hippogryph
+[02:43:52] [Thread-104/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 6c0900de-ef4b-3203-85ad-79c1a51cf5f6.
+[02:43:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Teleported bochynqui to walter]
+[02:44:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Creative Mode]
+[02:45:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Survival Mode]
+[02:46:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Creative Mode]
+[02:46:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Survival Mode]
+[02:46:32] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.monster.EntityIronGolem from class de.Whitedraco.switchbow.entity.living.EntityLittleIronGolem
+[02:47:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: bochynqui moved wrongly!
+[02:48:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bochynqui was slain by Fire Dragon
+[02:48:06] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: bochynqui moved wrongly!
+[02:48:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Teleported bochynqui to walter]
+[02:48:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bochynqui: Set own game mode to Creative Mode]
+[02:48:37] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.item.EntityFireworkRocket from class de.Whitedraco.switchbow.entity.arrow.EntityArrowFirework

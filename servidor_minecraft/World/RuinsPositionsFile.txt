@@ -9,12 +9,14 @@
 # It should also prevent Ruins re-spawning under any circumstances. Areas registered in here block any overlapping new Ruins.
 # Empty lines and those prefixed by '#' are ignored by the parser. Don't save notes in here, file gets wiped upon flushing.
 #
+-10297 72 -3560 -10292 80 -3555 PillarBase.tml
 -10240 69 -3378 -10233 76 -3371 Outcrop.tml
 -10240 69 -3413 -10233 73 -3406 TinyFarmField.tml
 -10239 69 -3392 -10231 75 -3386 StoneHouse.tml
 -10229 66 -3306 -10214 74 -3297 Archway.tml
 -10200 66 -3520 -10198 70 -3517 SkeletonHeadStatue.tml
 -10194 62 -3599 -10190 68 -3596 StonePillar.tml
+-10170 68 -3212 -10162 78 -3204 TallTower.tml
 -10148 62 -3450 -10140 68 -3442 ShortTower.tml
 -10100 64 -3536 -10092 74 -3528 TallTower.tml
 -10091 67 -3609 -10085 84 -3603 VanillaVillageWell-p.tml
@@ -26,6 +28,7 @@
 -9972 69 -3306 -9964 75 -3298 LargeStoneHouse.tml
 -9941 62 -3385 -9935 68 -3377 StoneHouse.tml
 -9923 70 -3600 -9908 81 -3589 Barn-intact.tml
+-9898 71 -3238 -9889 79 -3223 Archway.tml
 -9890 70 -3479 -9884 75 -3474 VanillaVillageCobbleHouse-r.tml
 -9856 62 -3340 -9847 73 -3332 HutIntact.tml
 -9841 72 -3640 -9836 77 -3635 VanillaVillageLadder-p.tml

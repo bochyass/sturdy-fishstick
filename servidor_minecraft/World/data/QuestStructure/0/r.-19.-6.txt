@@ -18,3 +18,4 @@ SmallFortRuins,-10218,-10186,-3584,-3554
 MysticalTree2,-10227,-10217,-3432,-3422
 BlazeSpawnerCrystal,-9971,-9965,-3267,-3261
 StonePlantMound1,-10073,-10067,-3275,-3269
+StonePlantBoulder,-9872,-9862,-3236,-3226
