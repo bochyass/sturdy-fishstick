@@ -5,3 +5,16 @@ WoodWallRemains,-8722,-8694,-2846,-2838
 StoneLeafMound,-8797,-8790,-2828,-2819
 StonePlantMound3,-8784,-8773,-2820,-2811
 StonePlantBoulder,-8740,-8730,-2806,-2796
+StoneBoulder,-8838,-8829,-2764,-2755
+StoneLeafMound,-9031,-9022,-2943,-2936
+RLCraft_DecentWitch,-9048,-9048,-2949,-2949
+RLCraft_UndergroundRuin3,-9051,-9043,-2955,-2947
+StoneBoulder,-9098,-9089,-2863,-2854
+ElvenPond,-9077,-9048,-2886,-2856
+StonePlantMound4,-9055,-9048,-2847,-2840
+StonePlantMound4,-9089,-9082,-2938,-2931
+StonePlantBoulder,-9117,-9107,-2846,-2836
+P_WitchDungeon,-9148,-9114,-2900,-2883
+BrickHenge,-9155,-9139,-3052,-3036
+ForestBeacon,-9141,-9133,-2882,-2874
+StoneLeafMound,-9178,-9169,-2890,-2883

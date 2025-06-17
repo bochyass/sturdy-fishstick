@@ -7,3 +7,7 @@ StonePlantMound3,-6012,-6003,-2572,-2561
 RLCraft_SmallUndergroundSkeleton,-5968,-5960,-2570,-2562
 ElvenPond,-5992,-5962,-2579,-2550
 StonePlantMound1,-5789,-5783,-2591,-2585
+StonePlantMound,-5807,-5802,-2849,-2844
+RLCraft_UndergroundFarm,-5739,-5696,-3091,-3049
+StonePlantMound4,-5811,-5804,-2818,-2811
+UndergroundCrypt,-5991,-5963,-3060,-3046

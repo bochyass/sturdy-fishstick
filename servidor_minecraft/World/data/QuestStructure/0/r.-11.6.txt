@@ -21,3 +21,4 @@ StonePlantMound4,-5788,-5781,3432,3439
 StonePlantMound3,-5782,-5771,3479,3488
 DinosaurSkull,-5733,-5722,3532,3551
 UndergroundTreeoid,-6005,-5982,3199,3225
+UndergroundCrypt,-5766,-5752,3160,3188

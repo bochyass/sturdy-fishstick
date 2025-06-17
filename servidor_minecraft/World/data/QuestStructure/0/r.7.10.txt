@@ -1,0 +1,16 @@
+StonePlantMound,3594,3599,5244,5249
+P_Crater,3606,3682,5211,5294
+P_VillageFarmhouse,3638,3650,5318,5330
+RLCraft_DecentWitch,3674,3674,5323,5323
+RLCraft_UndergroundRuin2,3669,3679,5321,5328
+VillageTriplets,3676,3690,5318,5332
+StonePlantMound2,3643,3655,5333,5346
+VillageWoodMill,3670,3686,5337,5350
+P_VillageInn,3700,3709,5320,5331
+SeasonsGreenhouse,3649,3659,5355,5367
+VillageForgeLarge,3626,3642,5383,5395
+P_VillageHouse,3674,3685,5355,5364
+VillageLargeLibrary,3649,3668,5368,5388
+RLCraft_DecentWitch,3703,3703,5378,5378
+RLCraft_UndergroundRuin2,3698,3708,5376,5383
+RLCraft_Vineyard,3691,3711,5365,5393

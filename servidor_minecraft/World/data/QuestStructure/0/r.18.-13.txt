@@ -1,0 +1,8 @@
+SmallWoodenCottage2,9255,9263,-6800,-6792
+SmallWoodenCottage2,9310,9318,-6802,-6794
+ThreeTowers,9270,9301,-6886,-6854
+VillageWoodMill,9231,9244,-6890,-6874
+P_Village2Story,9250,9263,-6890,-6884
+VillageSavannaTannery,9294,9317,-6898,-6887
+VillageMarketplace,9270,9284,-6911,-6897
+VillageMarketplace,9270,9284,-6911,-6897
