@@ -128,3 +128,7 @@ RLCraft_UndergroundRuin2,-7335,-7328,-917,-907
 StonePlantMound3,-7409,-7400,-662,-651
 MysticalTree2,-7281,-7271,-878,-868
 StonePlantMound,-7311,-7306,-603,-598
+RLCraft_SmallUndergroundSkeleton,-7452,-7444,-542,-534
+StonePlantMound,-7434,-7429,-538,-533
+StonePlantMound1,-7370,-7364,-546,-540
+StoneBoulder,-7334,-7325,-542,-533

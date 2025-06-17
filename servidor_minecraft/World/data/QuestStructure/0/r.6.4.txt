@@ -1,0 +1,5 @@
+RLCraft_BasicWitch,3220,3220,2196,2196
+RLCraft_UndergroundRuin1,3217,3226,2193,2202
+RLCraft_BasicZombie,3407,3407,2115,2115
+RLCraft_UndergroundRuin1,3401,3410,2109,2118
+ShrineSmallFire,3374,3384,2225,2235

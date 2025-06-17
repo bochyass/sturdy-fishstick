@@ -1,0 +1,8 @@
+RLCraft_SmallUndergroundSkeleton,-7485,-7477,-454,-446
+P_VillageLibrary,-7573,-7557,-431,-412
+StonePlantMound3,-7374,-7363,-436,-427
+VillageWoodMill,-7610,-7594,-431,-418
+P_VillageFarmhouse,-7584,-7572,-394,-382
+VillageTriplets,-7601,-7587,-394,-380
+VillageTriplets,-7601,-7587,-394,-380
+RLCraft_PlainsCamp,-7566,-7520,-388,-349

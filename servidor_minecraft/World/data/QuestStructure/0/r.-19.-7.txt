@@ -1,3 +1,7 @@
 StonePlantMound3,-9985,-9974,-3593,-3584
 StoneBoulder,-10028,-10019,-3591,-3582
 ShrineSmallFire,-10089,-10079,-3628,-3618
+StonePlantMound,-9991,-9986,-3631,-3626
+StonePlantMound4,-10193,-10186,-3652,-3645
+WoodWallRemains,-10063,-10055,-3669,-3641
+StoneBoulder,-10046,-10037,-3661,-3652

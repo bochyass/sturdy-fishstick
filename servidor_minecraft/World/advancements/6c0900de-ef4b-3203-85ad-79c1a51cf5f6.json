@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_the_recipe": "2025-06-17 02:38:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-06-15 20:59:40 +0000"
@@ -403,6 +409,7 @@
   },
   "defiledlands:main/discover_all_biomes": {
     "criteria": {
+      "forest_vilespine": "2025-06-17 02:40:12 +0000",
       "hills_defiled": "2025-06-15 20:12:31 +0000"
     },
     "done": false
@@ -530,6 +537,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-06-15 19:39:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2025-06-17 02:31:13 +0000"
     },
     "done": true
   },
@@ -832,6 +845,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_at_least_9_redstone": "2025-06-17 02:38:34 +0000"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:crossbow": {
     "criteria": {
       "has_string": "2025-06-15 19:39:44 +0000"
@@ -1009,6 +1028,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-06-15 22:29:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-06-17 02:31:13 +0000"
     },
     "done": true
   },
