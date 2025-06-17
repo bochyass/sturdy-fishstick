@@ -1,0 +1,3 @@
+P_IceSkeletonLookout,-9007,-8997,-7057,-7047
+WoodWallRemains,-9072,-9044,-7066,-7058
+StoneIceBoulder1,-9053,-9043,-7034,-7024
