@@ -1,1 +1,2 @@
 StoneIceBoulder2,7686,7695,7300,7309
+StoneIceBoulder,8160,8169,7460,7470
