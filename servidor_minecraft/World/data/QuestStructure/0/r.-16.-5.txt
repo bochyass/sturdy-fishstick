@@ -1,3 +1,6 @@
 UndergroundTreeoid,-8453,-8427,-3003,-2980
 RLCraft_SmallUndergroundSkeleton,-8242,-8234,-2925,-2917
 StonePlantMound2,-8231,-8219,-2929,-2916
+RLCraft_BasicZombie,-8574,-8574,-2920,-2920
+RLCraft_UndergroundRuin1,-8577,-8568,-2923,-2914
+P_WizardTower,-8587,-8557,-2876,-2846

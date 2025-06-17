@@ -6,3 +6,5 @@ StonePlantBoulder,-8937,-8927,-3229,-3219
 StoneBoulder,-8825,-8816,-3310,-3301
 RLCraft_Vineyard,-8727,-8707,-3470,-3442
 StonePlantMound4,-8785,-8778,-3440,-3433
+StonePlantMound1,-8942,-8936,-3096,-3090
+StonePlantMound,-8987,-8982,-3131,-3126

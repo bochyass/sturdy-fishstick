@@ -1,1 +1,8 @@
 P_WizardTower,-7004,-6974,8151,8181
+StoneLeafMound,-6851,-6844,8036,8045
+RLCraft_UndergroundFarm,-6891,-6848,8008,8050
+SmallClockworkSite,-6867,-6848,7932,7954
+RLCraft_SwampHut,-6839,-6807,8120,8160
+P_WitchDungeon,-6820,-6803,8115,8149
+StonePlantMound3,-6783,-6774,8134,8145
+WoodWallRemains,-6933,-6925,7822,7850

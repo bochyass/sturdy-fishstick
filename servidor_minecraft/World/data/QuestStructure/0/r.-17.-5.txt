@@ -1,1 +1,7 @@
 DinosaurSkeleton,-8952,-8943,-3065,-3019
+ElvenPond,-8957,-8928,-2913,-2883
+StonePlantBoulder,-8795,-8785,-2893,-2883
+WoodWallRemains,-8722,-8694,-2846,-2838
+StoneLeafMound,-8797,-8790,-2828,-2819
+StonePlantMound3,-8784,-8773,-2820,-2811
+StonePlantBoulder,-8740,-8730,-2806,-2796

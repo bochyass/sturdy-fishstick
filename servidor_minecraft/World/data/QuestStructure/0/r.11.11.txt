@@ -1,0 +1,9 @@
+ShrineSmallAir,5922,5930,5901,5909
+StoneLeafMound,5881,5888,5834,5843
+StonePlantMound,5999,6004,5879,5884
+StoneBoulder,5964,5973,5979,5988
+UndergroundTreeoid,5801,5824,5807,5833
+RLCraft_SmallUndergroundSkeleton,5817,5825,5790,5798
+RLCraft_DecentZombie,5794,5794,5805,5805
+RLCraft_UndergroundRuin3,5792,5800,5802,5810
+StonePlantMound,5919,5924,5745,5750

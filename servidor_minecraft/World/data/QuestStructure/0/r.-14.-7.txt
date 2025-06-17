@@ -1,2 +1,6 @@
 StoneBoulder,-7555,-7546,-3600,-3591
 StonePlantMound,-7364,-7359,-3599,-3594
+StoneBoulder,-7550,-7541,-3648,-3639
+StoneLeafMound,-7376,-7367,-3676,-3669
+StonePlantMound1,-7663,-7657,-3689,-3683
+StoneLeafMound,-7602,-7595,-3711,-3702

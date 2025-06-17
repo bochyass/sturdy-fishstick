@@ -1,0 +1,8 @@
+StonePlantBoulder,386,396,-6512,-6502
+StonePlantMound3,425,434,-6415,-6404
+StonePlantMound2,376,389,-6400,-6388
+RLCraft_SmallUndergroundSkeleton,430,438,-6526,-6518
+StonePlantMound3,398,409,-6389,-6380
+RLCraft_UndergroundFarm,383,425,-6372,-6329
+StonePlantMound3,311,322,-6545,-6536
+OldWatchtower,470,482,-6394,-6381
